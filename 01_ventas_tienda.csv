@@ -1,0 +1,2501 @@
+Fecha,Cliente,Producto,Categoría,PrecioUnitario,Cantidad
+2024-04-12,Marta,Auriculares,Audio,36.33,3
+2024-03-15,Marcos,"Monitor 27""",Pantallas,268.59,2
+2024-04-13,Lucía,Webcam,Periféricos,66.13,1
+2024-02-27,Marta,Mouse,Periféricos,23.25,2
+2024-02-18,Diego,Hub USB-C,Accesorios,26.87,1
+2024-01-15,Luis,Auriculares,Audio,44.02,3
+2024-02-24,Carlos,"Monitor 24""",Pantallas,199.67,3
+2024-01-18,Lucía,Auriculares,Audio,42.37,4
+2024-02-22,Florencia,"Monitor 24""",Pantallas,190.01,4
+2024-03-21,Florencia,Hub USB-C,Accesorios,32.41,1
+2024-04-13,Lucía,Cable HDMI,Accesorios,11.4,1
+2024-01-04,Diego,"Notebook 14""",Computadoras,960.97,1
+2024-05-25,Ana,Pad Mouse,Periféricos,10.36,2
+2024-02-09,Paula,SSD 512GB,Almacenamiento,85.88,4
+2024-05-03,Marcos,Webcam,Periféricos,63.65,1
+2024-03-29,Jorge,SSD 512GB,Almacenamiento,73.01,3
+2024-03-03,Marta,Mouse,Periféricos,26.94,3
+2024-02-10,Federico,Teclado,Periféricos,54.44,4
+2024-05-30,Camila,SSD 1TB,Almacenamiento,140.1,2
+2024-02-04,Rocío,"Notebook 14""",Computadoras,949.34,2
+2024-05-10,Luis,Cable HDMI,Accesorios,12.48,3
+2024-01-15,Florencia,Teclado,Periféricos,57.69,1
+2024-05-03,Federico,Mouse,Periféricos,20.27,3
+2024-05-22,Florencia,"Notebook 15""",Computadoras,1152.12,2
+2024-06-08,Rocío,SSD 1TB,Almacenamiento,143.52,3
+2024-05-13,Diego,"Monitor 24""",Pantallas,210.98,2
+2024-03-24,Carlos,Parlante BT,Audio,65.81,3
+2024-05-08,Lucía,"Notebook 15""",Computadoras,1148.43,1
+2024-04-30,Carlos,"Monitor 27""",Pantallas,264.94,1
+2024-06-03,Marta,Disco 2TB,Almacenamiento,102.61,2
+2024-02-20,Marcos,Cable HDMI,Accesorios,10.79,1
+2024-06-08,Camila,Pad Mouse,Periféricos,8.64,3
+2024-02-21,Camila,SSD 1TB,Almacenamiento,136.82,2
+2024-03-21,Jorge,"Notebook 14""",Computadoras,857.82,1
+2024-01-02,Carlos,Pad Mouse,Periféricos,8.9,2
+2024-05-26,Florencia,"Monitor 27""",Pantallas,260.07,3
+2024-06-08,Sofía,Cable HDMI,Accesorios,10.98,2
+2024-02-07,Federico,"Notebook 14""",Computadoras,906.75,2
+2024-05-18,Florencia,"Monitor 27""",Pantallas,268.54,1
+2024-03-10,Agustín,Parlante BT,Audio,69.53,3
+2024-06-12,Lucía,Parlante BT,Audio,65.08,1
+2024-04-05,Agustín,Disco 2TB,Almacenamiento,96.34,1
+2024-06-09,Marcos,Mouse,Periféricos,26.43,4
+2024-06-07,Jorge,SSD 512GB,Almacenamiento,63.54,2
+2024-05-23,Jorge,Cargador USB-C,Accesorios,28.61,2
+2024-02-17,Federico,Cable HDMI,Accesorios,13.74,4
+2024-04-08,Pedro,"Notebook 14""",Computadoras,932.65,4
+2024-04-22,Pedro,"Monitor 27""",Pantallas,267.86,1
+2024-06-14,Florencia,"Notebook 14""",Computadoras,934.16,4
+2024-04-19,Diego,Hub USB-C,Accesorios,40.96,3
+2024-06-17,Diego,Disco 2TB,Almacenamiento,86.7,3
+2024-05-07,Camila,"Monitor 27""",Pantallas,259.58,2
+2024-04-24,Pedro,Cargador USB-C,Accesorios,24.48,4
+2024-01-27,Carlos,Parlante BT,Audio,71.0,3
+2024-03-01,Marta,Webcam,Periféricos,88.56,2
+2024-06-20,Sofía,Hub USB-C,Accesorios,34.9,5
+2024-01-24,Rocío,Mouse,Periféricos,27.02,3
+2024-06-08,Federico,Disco 2TB,Almacenamiento,80.56,2
+2024-05-07,Rocío,Cable HDMI,Accesorios,10.21,3
+2024-04-23,Hernán,"Notebook 14""",Computadoras,835.13,3
+2024-06-03,Florencia,Auriculares,Audio,33.16,2
+2024-06-24,Marta,"Notebook 14""",Computadoras,852.68,2
+2024-01-26,Agustín,Teclado,Periféricos,51.52,3
+2024-06-21,Valentina,Hub USB-C,Accesorios,35.86,1
+2024-01-08,Sofía,Cable HDMI,Accesorios,13.27,3
+2024-03-06,Ana,"Notebook 14""",Computadoras,926.06,3
+2024-03-03,Hernán,Pad Mouse,Periféricos,9.31,1
+2024-01-15,Hernán,Teclado,Periféricos,52.98,2
+2024-01-08,Valentina,"Monitor 24""",Pantallas,190.46,2
+2024-04-18,Pedro,SSD 1TB,Almacenamiento,135.66,1
+2024-04-03,Sofía,Auriculares,Audio,54.29,4
+2024-05-24,Rocío,SSD 512GB,Almacenamiento,84.23,2
+2024-02-27,Daniela,Auriculares,Audio,34.85,1
+2024-01-01,Marta,SSD 1TB,Almacenamiento,143.84,2
+2024-04-27,Valentina,"Monitor 27""",Pantallas,275.76,2
+2024-03-09,Luis,"Monitor 27""",Pantallas,281.11,2
+2024-03-16,Diego,Mouse,Periféricos,21.05,1
+2024-01-29,Carlos,Cargador USB-C,Accesorios,28.61,1
+2024-03-09,Carlos,Webcam,Periféricos,68.13,2
+2024-05-23,Pedro,Cargador USB-C,Accesorios,26.39,1
+2024-06-24,Florencia,Pad Mouse,Periféricos,9.08,3
+2024-03-09,Marcos,Hub USB-C,Accesorios,38.66,2
+2024-05-17,Jorge,"Monitor 24""",Pantallas,200.78,3
+2024-01-24,Valentina,Disco 2TB,Almacenamiento,123.48,6
+2024-06-11,Camila,Cable HDMI,Accesorios,11.18,3
+2024-06-09,Hernán,Cable HDMI,Accesorios,14.82,2
+2024-01-29,Marta,"Monitor 27""",Pantallas,251.89,2
+2024-03-30,Lucía,Mouse,Periféricos,25.69,2
+2024-05-14,Agustín,Auriculares,Audio,42.38,5
+2024-05-17,Diego,"Monitor 27""",Pantallas,248.45,2
+2024-06-25,Diego,"Monitor 27""",Pantallas,249.75,1
+2024-04-05,Ana,Mouse,Periféricos,26.28,3
+2024-04-22,Luis,"Monitor 27""",Pantallas,279.07,1
+2024-01-30,Carlos,Parlante BT,Audio,72.15,4
+2024-01-19,Agustín,Mouse,Periféricos,26.08,4
+2024-04-08,Hernán,"Monitor 27""",Pantallas,257.83,3
+2024-02-22,Marcos,Cargador USB-C,Accesorios,29.66,1
+2024-02-11,Jorge,Webcam,Periféricos,74.19,3
+2024-06-11,Diego,Cargador USB-C,Accesorios,27.18,1
+2024-03-16,Lucía,Cargador USB-C,Accesorios,30.14,5
+2024-06-16,Paula,"Monitor 24""",Pantallas,193.72,1
+2024-03-23,Marta,Teclado,Periféricos,51.16,4
+2024-03-11,Paula,SSD 1TB,Almacenamiento,124.01,3
+2024-03-30,Paula,Hub USB-C,Accesorios,34.29,2
+2024-06-21,Nicolás,Parlante BT,Audio,64.85,1
+2024-03-01,Marta,Parlante BT,Audio,62.59,4
+2024-04-22,Federico,SSD 512GB,Almacenamiento,80.38,4
+2024-02-16,Marta,"Monitor 27""",Pantallas,245.93,4
+2024-05-26,Jorge,"Monitor 24""",Pantallas,200.33,3
+2024-04-26,Florencia,Cable HDMI,Accesorios,12.66,2
+2024-01-12,Pedro,Hub USB-C,Accesorios,32.08,2
+2024-06-12,Sofía,"Notebook 14""",Computadoras,890.61,2
+2024-06-26,Nicolás,"Monitor 27""",Pantallas,246.7,1
+2024-06-03,Carlos,Cable HDMI,Accesorios,10.22,3
+2024-06-05,Florencia,Teclado,Periféricos,49.39,3
+2024-01-30,Luis,Auriculares,Audio,44.33,2
+2024-04-28,Carlos,"Monitor 27""",Pantallas,283.33,3
+2024-01-26,Sofía,Hub USB-C,Accesorios,33.51,4
+2024-04-07,Daniela,Cargador USB-C,Accesorios,28.91,5
+2024-03-23,Jorge,Disco 2TB,Almacenamiento,119.12,1
+2024-03-18,Luis,Pad Mouse,Periféricos,8.91,2
+2024-04-22,Federico,Auriculares,Audio,34.81,2
+2024-04-04,Federico,"Notebook 14""",Computadoras,913.29,3
+2024-01-12,Nicolás,"Notebook 15""",Computadoras,1062.58,3
+2024-02-26,Paula,Cargador USB-C,Accesorios,26.5,3
+2024-03-15,Pedro,"Monitor 24""",Pantallas,233.86,1
+2024-06-14,Valentina,"Monitor 24""",Pantallas,202.71,3
+2024-06-27,Luis,Parlante BT,Audio,65.41,3
+2024-03-19,Agustín,Parlante BT,Audio,78.57,3
+2024-05-24,Luis,Cargador USB-C,Accesorios,24.32,2
+2024-03-09,Hernán,Pad Mouse,Periféricos,9.99,2
+2024-04-24,Luis,Mouse,Periféricos,26.34,2
+2024-03-20,Sofía,Mouse,Periféricos,21.33,3
+2024-04-02,Rocío,Mouse,Periféricos,26.63,3
+2024-01-21,Lucía,Disco 2TB,Almacenamiento,94.7,1
+2024-05-28,Marta,"Monitor 27""",Pantallas,246.79,3
+2024-02-15,Diego,Parlante BT,Audio,65.48,2
+2024-02-16,Rocío,Mouse,Periféricos,17.39,2
+2024-04-03,Paula,SSD 512GB,Almacenamiento,77.47,1
+2024-02-05,Marcos,"Monitor 24""",Pantallas,185.87,3
+2024-02-16,Agustín,"Monitor 27""",Pantallas,255.42,2
+2024-05-09,Marcos,Disco 2TB,Almacenamiento,76.98,2
+2024-02-25,Pedro,"Notebook 15""",Computadoras,1120.01,3
+2024-01-18,Nicolás,SSD 512GB,Almacenamiento,74.77,2
+2024-01-15,Carlos,Auriculares,Audio,41.96,1
+2024-02-08,Nicolás,Teclado,Periféricos,47.56,2
+2024-05-05,Carlos,"Monitor 24""",Pantallas,222.5,3
+2024-04-20,Hernán,"Notebook 14""",Computadoras,935.27,3
+2024-03-23,Pedro,SSD 1TB,Almacenamiento,117.31,3
+2024-02-28,Carlos,"Monitor 27""",Pantallas,241.07,3
+2024-05-29,Camila,"Notebook 15""",Computadoras,1069.15,3
+2024-04-03,Sofía,Cable HDMI,Accesorios,10.32,1
+2024-02-24,Florencia,"Notebook 15""",Computadoras,1139.87,1
+2024-04-27,Rocío,Auriculares,Audio,40.97,1
+2024-06-27,Florencia,"Notebook 15""",Computadoras,1128.32,2
+2024-06-21,Marta,Webcam,Periféricos,75.55,2
+2024-04-27,Marcos,Teclado,Periféricos,45.45,4
+2024-02-07,Marta,Webcam,Periféricos,74.26,2
+2024-04-09,Marcos,"Notebook 15""",Computadoras,1144.1,2
+2024-01-05,Rocío,"Monitor 24""",Pantallas,177.54,1
+2024-06-20,Agustín,"Monitor 24""",Pantallas,208.35,1
+2024-03-03,Marcos,Cargador USB-C,Accesorios,25.3,4
+2024-06-11,Marcos,Parlante BT,Audio,69.81,3
+2024-04-29,Carlos,Hub USB-C,Accesorios,34.32,2
+2024-02-04,Marcos,Parlante BT,Audio,66.53,1
+2024-04-02,Ana,SSD 512GB,Almacenamiento,82.35,1
+2024-04-14,Pedro,"Notebook 14""",Computadoras,930.51,2
+2024-03-23,Sofía,Cable HDMI,Accesorios,12.85,3
+2024-02-11,Florencia,Hub USB-C,Accesorios,39.0,2
+2024-06-27,Florencia,Auriculares,Audio,37.28,3
+2024-06-01,Marta,Mouse,Periféricos,20.96,2
+2024-04-13,Pedro,Parlante BT,Audio,51.55,2
+2024-05-13,Camila,Webcam,Periféricos,78.1,2
+2024-04-20,Paula,Webcam,Periféricos,64.13,4
+2024-02-07,Luis,"Notebook 15""",Computadoras,1141.41,2
+2024-03-26,Camila,Parlante BT,Audio,73.42,3
+2024-04-27,Camila,"Monitor 24""",Pantallas,217.16,1
+2024-02-16,Lucía,Teclado,Periféricos,47.78,3
+2024-04-24,Camila,Hub USB-C,Accesorios,36.38,1
+2024-03-09,Rocío,Webcam,Periféricos,82.51,3
+2024-05-13,Lucía,Pad Mouse,Periféricos,8.52,2
+2024-05-20,Sofía,Hub USB-C,Accesorios,27.25,1
+2024-04-20,Ana,Pad Mouse,Periféricos,11.07,1
+2024-03-08,Agustín,Hub USB-C,Accesorios,40.22,2
+2024-05-06,Lucía,"Notebook 14""",Computadoras,910.01,2
+2024-01-29,Sofía,Teclado,Periféricos,44.3,1
+2024-02-10,Federico,Parlante BT,Audio,64.25,1
+2024-05-28,Daniela,"Monitor 27""",Pantallas,273.02,1
+2024-06-12,Jorge,Cable HDMI,Accesorios,12.07,2
+2024-02-22,Camila,"Notebook 15""",Computadoras,1154.71,2
+2024-04-26,Lucía,"Monitor 27""",Pantallas,244.75,4
+2024-06-10,Ana,"Monitor 24""",Pantallas,203.28,3
+2024-06-27,Federico,SSD 512GB,Almacenamiento,83.14,1
+2024-03-28,Marcos,Mouse,Periféricos,19.9,2
+2024-05-29,Marcos,SSD 1TB,Almacenamiento,124.4,3
+2024-05-27,Hernán,Disco 2TB,Almacenamiento,93.45,2
+2024-04-13,Florencia,SSD 512GB,Almacenamiento,97.16,1
+2024-06-27,Ana,Teclado,Periféricos,50.3,1
+2024-03-02,Marcos,Pad Mouse,Periféricos,9.04,1
+2024-01-30,Diego,"Notebook 14""",Computadoras,878.13,3
+2024-04-24,Luis,Teclado,Periféricos,56.94,2
+2024-06-14,Rocío,Hub USB-C,Accesorios,26.14,2
+2024-01-08,Camila,SSD 512GB,Almacenamiento,70.62,2
+2024-03-27,Paula,Teclado,Periféricos,46.11,5
+2024-03-07,Federico,"Monitor 24""",Pantallas,209.62,1
+2024-02-23,Marcos,Parlante BT,Audio,55.59,2
+2024-02-20,Paula,Auriculares,Audio,31.85,1
+2024-04-05,Hernán,"Monitor 24""",Pantallas,209.51,6
+2024-05-21,Camila,Hub USB-C,Accesorios,36.98,1
+2024-01-07,Carlos,SSD 512GB,Almacenamiento,77.94,3
+2024-05-26,Rocío,SSD 512GB,Almacenamiento,68.87,3
+2024-05-09,Marta,"Notebook 15""",Computadoras,1188.23,2
+2024-01-20,Hernán,"Notebook 15""",Computadoras,1035.98,2
+2024-06-20,Paula,SSD 512GB,Almacenamiento,91.7,1
+2024-03-26,Federico,"Notebook 15""",Computadoras,1082.25,3
+2024-04-23,Florencia,Webcam,Periféricos,71.72,1
+2024-01-14,Jorge,Hub USB-C,Accesorios,37.9,2
+2024-01-22,Federico,Pad Mouse,Periféricos,11.76,4
+2024-02-06,Rocío,"Notebook 15""",Computadoras,1109.79,2
+2024-06-01,Federico,Auriculares,Audio,33.48,3
+2024-03-26,Valentina,"Notebook 15""",Computadoras,1112.8,3
+2024-06-21,Jorge,Hub USB-C,Accesorios,38.28,3
+2024-02-15,Diego,SSD 512GB,Almacenamiento,77.68,2
+2024-05-28,Nicolás,Cable HDMI,Accesorios,12.26,4
+2024-02-23,Nicolás,"Monitor 24""",Pantallas,227.75,3
+2024-02-05,Hernán,Cargador USB-C,Accesorios,27.19,2
+2024-03-21,Sofía,Mouse,Periféricos,33.53,2
+2024-03-13,Valentina,SSD 512GB,Almacenamiento,79.36,1
+2024-01-17,Carlos,"Monitor 27""",Pantallas,287.58,3
+2024-04-17,Valentina,"Monitor 27""",Pantallas,248.26,2
+2024-04-07,Jorge,Webcam,Periféricos,67.95,5
+2024-01-12,Ana,Parlante BT,Audio,59.51,5
+2024-04-27,Lucía,Cargador USB-C,Accesorios,28.11,4
+2024-01-26,Rocío,Mouse,Periféricos,25.04,1
+2024-01-10,Nicolás,Hub USB-C,Accesorios,30.83,2
+2024-01-07,Diego,"Monitor 24""",Pantallas,234.75,3
+2024-03-22,Federico,Cargador USB-C,Accesorios,31.62,3
+2024-04-17,Federico,"Monitor 27""",Pantallas,214.79,1
+2024-04-07,Pedro,Auriculares,Audio,40.53,2
+2024-02-08,Marta,Hub USB-C,Accesorios,38.38,2
+2024-04-02,Lucía,Pad Mouse,Periféricos,12.05,2
+2024-04-17,Hernán,Cable HDMI,Accesorios,13.11,1
+2024-02-24,Luis,"Monitor 27""",Pantallas,264.27,1
+2024-01-13,Marta,Cable HDMI,Accesorios,11.97,5
+2024-03-02,Pedro,Cable HDMI,Accesorios,15.07,5
+2024-05-12,Hernán,SSD 512GB,Almacenamiento,77.58,2
+2024-06-21,Nicolás,Hub USB-C,Accesorios,30.52,2
+2024-06-01,Florencia,Cable HDMI,Accesorios,10.78,2
+2024-03-13,Sofía,Cargador USB-C,Accesorios,27.35,1
+2024-02-06,Nicolás,"Notebook 14""",Computadoras,864.67,2
+2024-02-08,Lucía,"Notebook 14""",Computadoras,992.39,1
+2024-02-21,Hernán,Cargador USB-C,Accesorios,26.23,1
+2024-03-12,Lucía,"Notebook 14""",Computadoras,906.66,3
+2024-02-26,Nicolás,Mouse,Periféricos,26.64,1
+2024-01-03,Valentina,"Monitor 27""",Pantallas,267.81,2
+2024-01-09,Marcos,SSD 512GB,Almacenamiento,83.39,3
+2024-06-11,Agustín,Mouse,Periféricos,27.65,1
+2024-06-08,Pedro,Webcam,Periféricos,76.99,3
+2024-03-29,Lucía,Disco 2TB,Almacenamiento,115.48,1
+2024-04-14,Pedro,"Monitor 24""",Pantallas,223.95,2
+2024-01-29,Carlos,Hub USB-C,Accesorios,35.95,3
+2024-05-03,Paula,SSD 512GB,Almacenamiento,82.23,2
+2024-05-12,Florencia,Cable HDMI,Accesorios,12.06,2
+2024-01-28,Paula,Parlante BT,Audio,59.74,1
+2024-03-21,Jorge,Hub USB-C,Accesorios,38.02,3
+2024-02-02,Federico,Auriculares,Audio,40.24,6
+2024-04-16,Diego,Disco 2TB,Almacenamiento,103.18,1
+2024-05-12,Daniela,Auriculares,Audio,35.8,3
+2024-01-23,Camila,"Notebook 15""",Computadoras,1111.48,1
+2024-01-02,Federico,Hub USB-C,Accesorios,34.49,3
+2024-01-13,Florencia,"Monitor 27""",Pantallas,263.18,2
+2024-03-28,Daniela,"Monitor 27""",Pantallas,260.77,2
+2024-06-06,Marcos,Hub USB-C,Accesorios,34.85,3
+2024-02-06,Daniela,Auriculares,Audio,37.8,1
+2024-05-27,Federico,SSD 512GB,Almacenamiento,77.02,2
+2024-05-29,Federico,Pad Mouse,Periféricos,10.32,3
+2024-04-29,Nicolás,Webcam,Periféricos,66.27,2
+2024-05-18,Rocío,Auriculares,Audio,42.51,3
+2024-02-27,Federico,Auriculares,Audio,44.52,1
+2024-02-08,Carlos,Hub USB-C,Accesorios,34.84,3
+2024-02-01,Pedro,Cable HDMI,Accesorios,12.33,2
+2024-03-21,Sofía,Parlante BT,Audio,60.3,2
+2024-01-21,Marcos,Disco 2TB,Almacenamiento,81.53,2
+2024-06-10,Agustín,"Monitor 24""",Pantallas,192.44,1
+2024-03-04,Nicolás,SSD 512GB,Almacenamiento,82.69,2
+2024-01-27,Agustín,Disco 2TB,Almacenamiento,106.9,2
+2024-05-24,Marcos,Hub USB-C,Accesorios,40.42,1
+2024-04-02,Marcos,Mouse,Periféricos,16.73,1
+2024-06-29,Daniela,Auriculares,Audio,38.92,1
+2024-01-17,Florencia,Parlante BT,Audio,53.82,2
+2024-01-09,Camila,"Monitor 27""",Pantallas,259.33,1
+2024-04-26,Carlos,Parlante BT,Audio,53.08,2
+2024-03-04,Ana,"Monitor 27""",Pantallas,255.39,1
+2024-03-04,Jorge,Auriculares,Audio,39.83,4
+2024-02-02,Rocío,Webcam,Periféricos,76.27,1
+2024-03-16,Lucía,Webcam,Periféricos,75.64,2
+2024-03-20,Daniela,Teclado,Periféricos,42.64,2
+2024-04-06,Diego,"Monitor 24""",Pantallas,198.8,2
+2024-06-06,Nicolás,"Notebook 14""",Computadoras,859.94,4
+2024-04-28,Camila,Pad Mouse,Periféricos,9.53,3
+2024-05-02,Rocío,Teclado,Periféricos,50.3,5
+2024-05-06,Sofía,"Notebook 15""",Computadoras,1067.65,1
+2024-03-24,Marta,Auriculares,Audio,54.37,3
+2024-04-15,Valentina,Disco 2TB,Almacenamiento,111.72,3
+2024-01-12,Federico,"Monitor 24""",Pantallas,186.25,3
+2024-03-22,Carlos,"Monitor 27""",Pantallas,251.18,1
+2024-05-29,Marta,"Notebook 15""",Computadoras,1125.3,2
+2024-02-04,Rocío,Teclado,Periféricos,40.01,1
+2024-06-30,Diego,Parlante BT,Audio,74.09,3
+2024-01-04,Camila,Hub USB-C,Accesorios,34.63,4
+2024-06-27,Camila,Mouse,Periféricos,19.79,5
+2024-06-18,Hernán,SSD 512GB,Almacenamiento,93.34,3
+2024-05-10,Ana,Hub USB-C,Accesorios,39.92,2
+2024-01-08,Daniela,Teclado,Periféricos,56.9,2
+2024-02-11,Paula,SSD 1TB,Almacenamiento,132.7,2
+2024-02-29,Nicolás,Webcam,Periféricos,68.06,2
+2024-03-24,Paula,Pad Mouse,Periféricos,8.07,3
+2024-01-05,Hernán,"Notebook 14""",Computadoras,912.77,2
+2024-06-12,Rocío,Cargador USB-C,Accesorios,27.87,1
+2024-04-27,Nicolás,Hub USB-C,Accesorios,36.59,1
+2024-04-02,Diego,"Notebook 14""",Computadoras,939.85,2
+2024-06-19,Agustín,"Monitor 27""",Pantallas,251.77,2
+2024-04-27,Carlos,"Notebook 14""",Computadoras,933.88,4
+2024-05-13,Nicolás,"Monitor 27""",Pantallas,280.38,1
+2024-05-27,Nicolás,Disco 2TB,Almacenamiento,99.28,3
+2024-04-28,Agustín,Auriculares,Audio,39.75,1
+2024-02-28,Daniela,SSD 512GB,Almacenamiento,80.52,1
+2024-01-20,Sofía,Cargador USB-C,Accesorios,22.67,3
+2024-02-19,Jorge,SSD 1TB,Almacenamiento,130.56,1
+2024-06-19,Marcos,SSD 512GB,Almacenamiento,82.67,3
+2024-05-07,Marcos,"Notebook 14""",Computadoras,902.55,1
+2024-03-25,Florencia,Auriculares,Audio,40.8,1
+2024-01-08,Hernán,"Monitor 24""",Pantallas,193.89,2
+2024-02-24,Carlos,"Monitor 27""",Pantallas,250.1,3
+2024-05-24,Paula,Cargador USB-C,Accesorios,28.49,2
+2024-03-29,Florencia,"Monitor 27""",Pantallas,262.78,3
+2024-05-21,Daniela,Cargador USB-C,Accesorios,32.36,1
+2024-03-03,Nicolás,Auriculares,Audio,32.36,4
+2024-03-17,Carlos,"Notebook 15""",Computadoras,1069.78,4
+2024-03-22,Lucía,Disco 2TB,Almacenamiento,96.73,3
+2024-05-08,Lucía,"Notebook 15""",Computadoras,1106.02,1
+2024-05-22,Diego,SSD 1TB,Almacenamiento,121.43,3
+2024-05-26,Daniela,SSD 1TB,Almacenamiento,121.74,1
+2024-02-04,Paula,SSD 512GB,Almacenamiento,65.64,1
+2024-01-11,Camila,Cable HDMI,Accesorios,14.19,3
+2024-01-26,Marcos,"Notebook 15""",Computadoras,1150.49,5
+2024-05-12,Marcos,"Monitor 27""",Pantallas,284.09,3
+2024-03-10,Marta,"Monitor 24""",Pantallas,175.68,4
+2024-04-16,Agustín,Teclado,Periféricos,48.74,2
+2024-01-21,Florencia,Pad Mouse,Periféricos,10.65,2
+2024-03-18,Jorge,"Monitor 24""",Pantallas,177.43,2
+2024-06-04,Daniela,"Notebook 14""",Computadoras,896.07,2
+2024-06-12,Diego,"Notebook 15""",Computadoras,1064.16,4
+2024-04-17,Marta,"Monitor 24""",Pantallas,220.78,1
+2024-05-20,Valentina,"Monitor 27""",Pantallas,250.31,2
+2024-02-05,Camila,Pad Mouse,Periféricos,8.51,2
+2024-02-23,Valentina,Auriculares,Audio,36.14,5
+2024-05-16,Florencia,Webcam,Periféricos,70.42,3
+2024-04-30,Marcos,Parlante BT,Audio,54.63,2
+2024-01-19,Luis,"Notebook 15""",Computadoras,1065.35,5
+2024-03-09,Pedro,Cargador USB-C,Accesorios,29.4,2
+2024-05-29,Marta,Auriculares,Audio,35.1,1
+2024-05-22,Diego,"Notebook 15""",Computadoras,1064.98,2
+2024-03-17,Daniela,Cargador USB-C,Accesorios,26.29,4
+2024-03-25,Nicolás,SSD 512GB,Almacenamiento,75.88,3
+2024-01-24,Sofía,Parlante BT,Audio,80.8,1
+2024-01-19,Marcos,Cargador USB-C,Accesorios,23.6,3
+2024-04-06,Marta,Mouse,Periféricos,28.49,2
+2024-04-06,Federico,Cargador USB-C,Accesorios,26.27,1
+2024-02-18,Carlos,Parlante BT,Audio,54.8,3
+2024-06-08,Pedro,Webcam,Periféricos,76.87,3
+2024-01-03,Diego,"Notebook 15""",Computadoras,1105.43,1
+2024-05-09,Carlos,"Monitor 27""",Pantallas,287.88,2
+2024-02-13,Marta,Hub USB-C,Accesorios,36.4,1
+2024-03-17,Rocío,"Monitor 27""",Pantallas,281.85,1
+2024-04-15,Hernán,Disco 2TB,Almacenamiento,106.94,1
+2024-04-30,Nicolás,Cable HDMI,Accesorios,8.89,1
+2024-04-24,Valentina,Hub USB-C,Accesorios,33.34,1
+2024-01-05,Valentina,Parlante BT,Audio,72.21,1
+2024-01-30,Rocío,Teclado,Periféricos,53.82,3
+2024-02-01,Jorge,"Monitor 24""",Pantallas,201.78,3
+2024-05-30,Marcos,Mouse,Periféricos,24.49,1
+2024-03-06,Sofía,"Monitor 27""",Pantallas,234.39,1
+2024-03-15,Sofía,Mouse,Periféricos,21.03,2
+2024-06-02,Sofía,Auriculares,Audio,42.59,5
+2024-02-18,Paula,Cable HDMI,Accesorios,15.32,1
+2024-03-22,Rocío,Cargador USB-C,Accesorios,31.94,3
+2024-01-07,Valentina,Parlante BT,Audio,74.03,2
+2024-05-28,Lucía,"Notebook 15""",Computadoras,1135.61,3
+2024-04-04,Valentina,Cable HDMI,Accesorios,12.16,3
+2024-05-04,Carlos,"Monitor 27""",Pantallas,264.78,3
+2024-05-28,Marcos,"Monitor 24""",Pantallas,198.46,1
+2024-01-25,Paula,Teclado,Periféricos,49.46,2
+2024-04-01,Florencia,"Monitor 27""",Pantallas,258.85,2
+2024-05-25,Pedro,"Notebook 14""",Computadoras,929.03,1
+2024-02-12,Pedro,Mouse,Periféricos,23.47,3
+2024-01-05,Luis,Pad Mouse,Periféricos,9.64,1
+2024-01-11,Valentina,"Notebook 15""",Computadoras,1174.54,3
+2024-03-23,Nicolás,Teclado,Periféricos,46.45,1
+2024-05-23,Nicolás,"Notebook 15""",Computadoras,1142.72,1
+2024-01-04,Federico,"Notebook 14""",Computadoras,849.03,1
+2024-05-03,Hernán,Cargador USB-C,Accesorios,29.67,2
+2024-05-03,Nicolás,Mouse,Periféricos,26.57,3
+2024-01-07,Rocío,Parlante BT,Audio,71.08,2
+2024-03-26,Paula,SSD 512GB,Almacenamiento,78.45,4
+2024-05-12,Rocío,"Notebook 14""",Computadoras,858.14,1
+2024-06-29,Ana,Mouse,Periféricos,21.69,2
+2024-02-21,Lucía,Auriculares,Audio,39.79,1
+2024-04-26,Marcos,Parlante BT,Audio,55.06,2
+2024-06-28,Sofía,Cargador USB-C,Accesorios,27.89,4
+2024-01-17,Hernán,Cable HDMI,Accesorios,12.62,2
+2024-04-06,Marcos,Pad Mouse,Periféricos,10.28,2
+2024-01-21,Diego,Hub USB-C,Accesorios,34.94,2
+2024-06-25,Daniela,Mouse,Periféricos,29.37,2
+2024-03-28,Daniela,SSD 1TB,Almacenamiento,129.75,1
+2024-03-27,Paula,SSD 512GB,Almacenamiento,81.73,2
+2024-05-31,Agustín,Teclado,Periféricos,37.83,6
+2024-01-05,Sofía,SSD 512GB,Almacenamiento,81.24,3
+2024-05-17,Paula,Cargador USB-C,Accesorios,29.62,2
+2024-02-18,Valentina,Disco 2TB,Almacenamiento,113.11,1
+2024-03-08,Florencia,Parlante BT,Audio,70.35,2
+2024-04-23,Nicolás,Mouse,Periféricos,29.08,2
+2024-03-31,Agustín,"Notebook 14""",Computadoras,902.28,4
+2024-01-11,Agustín,Teclado,Periféricos,51.34,1
+2024-01-17,Federico,Auriculares,Audio,33.03,2
+2024-01-22,Florencia,Cable HDMI,Accesorios,9.38,2
+2024-06-20,Paula,Parlante BT,Audio,66.75,2
+2024-02-01,Jorge,SSD 1TB,Almacenamiento,128.63,3
+2024-06-23,Rocío,Cargador USB-C,Accesorios,30.23,4
+2024-03-26,Nicolás,Parlante BT,Audio,58.22,2
+2024-04-01,Jorge,"Notebook 14""",Computadoras,915.99,2
+2024-05-30,Florencia,Webcam,Periféricos,65.66,4
+2024-01-03,Valentina,Cable HDMI,Accesorios,12.75,5
+2024-04-15,Daniela,Teclado,Periféricos,41.2,5
+2024-03-04,Ana,"Monitor 27""",Pantallas,250.32,3
+2024-06-03,Sofía,"Notebook 15""",Computadoras,1129.43,2
+2024-05-16,Florencia,Auriculares,Audio,39.11,2
+2024-01-14,Florencia,Hub USB-C,Accesorios,35.05,5
+2024-03-10,Carlos,"Monitor 27""",Pantallas,246.38,4
+2024-02-23,Marta,Cable HDMI,Accesorios,9.21,2
+2024-02-07,Marta,Webcam,Periféricos,67.37,2
+2024-03-11,Daniela,"Notebook 15""",Computadoras,1079.41,3
+2024-03-20,Hernán,"Notebook 14""",Computadoras,929.37,1
+2024-01-24,Paula,Cargador USB-C,Accesorios,25.35,3
+2024-02-29,Daniela,"Monitor 27""",Pantallas,278.17,1
+2024-05-31,Nicolás,Webcam,Periféricos,60.53,2
+2024-04-26,Federico,"Monitor 24""",Pantallas,201.18,2
+2024-04-22,Rocío,Webcam,Periféricos,79.85,2
+2024-04-25,Carlos,"Notebook 14""",Computadoras,930.92,2
+2024-01-04,Paula,SSD 512GB,Almacenamiento,85.88,2
+2024-05-22,Hernán,"Notebook 14""",Computadoras,945.9,2
+2024-05-23,Ana,"Notebook 15""",Computadoras,1084.79,1
+2024-03-01,Valentina,Cargador USB-C,Accesorios,29.91,5
+2024-02-04,Pedro,Cable HDMI,Accesorios,14.23,4
+2024-02-18,Florencia,Cargador USB-C,Accesorios,29.85,3
+2024-02-08,Camila,SSD 512GB,Almacenamiento,79.31,2
+2024-02-26,Florencia,Disco 2TB,Almacenamiento,95.36,3
+2024-06-06,Nicolás,SSD 512GB,Almacenamiento,77.69,2
+2024-03-26,Jorge,"Monitor 27""",Pantallas,245.37,2
+2024-03-20,Diego,Disco 2TB,Almacenamiento,91.73,2
+2024-03-10,Lucía,Hub USB-C,Accesorios,34.93,1
+2024-03-24,Luis,SSD 512GB,Almacenamiento,75.02,3
+2024-06-26,Daniela,Disco 2TB,Almacenamiento,82.37,2
+2024-05-27,Federico,Webcam,Periféricos,63.16,1
+2024-06-24,Daniela,Parlante BT,Audio,51.98,3
+2024-05-10,Pedro,SSD 512GB,Almacenamiento,76.47,2
+2024-02-18,Marta,Cable HDMI,Accesorios,12.62,2
+2024-06-17,Marta,Cable HDMI,Accesorios,11.95,1
+2024-04-26,Ana,Webcam,Periféricos,65.1,3
+2024-03-01,Paula,Webcam,Periféricos,64.6,1
+2024-01-28,Carlos,Cargador USB-C,Accesorios,27.21,3
+2024-04-07,Marcos,SSD 512GB,Almacenamiento,81.02,2
+2024-01-02,Rocío,Disco 2TB,Almacenamiento,88.76,1
+2024-05-23,Carlos,SSD 512GB,Almacenamiento,84.33,2
+2024-03-26,Florencia,Disco 2TB,Almacenamiento,109.44,1
+2024-02-28,Agustín,Cargador USB-C,Accesorios,26.16,2
+2024-03-03,Florencia,Parlante BT,Audio,47.22,4
+2024-05-22,Rocío,Mouse,Periféricos,24.88,1
+2024-03-19,Lucía,"Notebook 15""",Computadoras,1085.41,3
+2024-06-01,Lucía,Mouse,Periféricos,19.79,1
+2024-05-10,Paula,Teclado,Periféricos,50.42,2
+2024-06-28,Marta,Cable HDMI,Accesorios,13.18,2
+2024-06-19,Sofía,"Notebook 15""",Computadoras,1105.66,2
+2024-06-12,Ana,Parlante BT,Audio,53.01,2
+2024-05-16,Agustín,Parlante BT,Audio,71.38,2
+2024-01-12,Valentina,SSD 1TB,Almacenamiento,128.4,1
+2024-03-20,Camila,Hub USB-C,Accesorios,33.88,1
+2024-04-10,Pedro,"Monitor 27""",Pantallas,253.27,3
+2024-04-19,Hernán,Hub USB-C,Accesorios,35.08,4
+2024-01-13,Diego,Pad Mouse,Periféricos,12.35,4
+2024-05-07,Sofía,Pad Mouse,Periféricos,10.05,4
+2024-05-12,Carlos,Disco 2TB,Almacenamiento,97.33,3
+2024-06-26,Rocío,"Monitor 27""",Pantallas,264.77,4
+2024-05-10,Daniela,Webcam,Periféricos,67.14,3
+2024-06-04,Lucía,Cable HDMI,Accesorios,11.25,2
+2024-02-27,Marcos,Cable HDMI,Accesorios,11.45,2
+2024-05-07,Marcos,Auriculares,Audio,46.66,4
+2024-01-16,Nicolás,"Notebook 15""",Computadoras,1078.42,1
+2024-06-16,Florencia,Pad Mouse,Periféricos,10.78,2
+2024-05-07,Carlos,Cable HDMI,Accesorios,10.66,3
+2024-02-07,Camila,"Notebook 15""",Computadoras,1070.28,3
+2024-05-24,Paula,"Notebook 14""",Computadoras,892.31,4
+2024-05-13,Nicolás,"Notebook 15""",Computadoras,1133.63,1
+2024-04-29,Jorge,Disco 2TB,Almacenamiento,119.0,2
+2024-03-12,Daniela,Teclado,Periféricos,48.81,3
+2024-06-16,Lucía,Disco 2TB,Almacenamiento,89.86,3
+2024-06-24,Diego,SSD 1TB,Almacenamiento,134.51,5
+2024-04-30,Diego,"Notebook 15""",Computadoras,1144.24,2
+2024-05-21,Valentina,Auriculares,Audio,37.46,1
+2024-01-30,Federico,"Notebook 14""",Computadoras,888.72,1
+2024-06-09,Ana,Parlante BT,Audio,49.29,2
+2024-03-18,Rocío,Cargador USB-C,Accesorios,27.21,2
+2024-03-08,Valentina,"Monitor 27""",Pantallas,240.03,5
+2024-01-12,Rocío,SSD 1TB,Almacenamiento,119.39,4
+2024-03-09,Lucía,"Monitor 24""",Pantallas,189.22,3
+2024-05-16,Rocío,"Notebook 14""",Computadoras,871.38,5
+2024-06-23,Pedro,Teclado,Periféricos,44.4,2
+2024-05-29,Luis,"Notebook 15""",Computadoras,1094.5,3
+2024-06-05,Nicolás,Parlante BT,Audio,76.68,1
+2024-01-04,Diego,SSD 1TB,Almacenamiento,139.24,2
+2024-03-26,Pedro,Mouse,Periféricos,22.01,3
+2024-06-14,Valentina,SSD 512GB,Almacenamiento,73.79,1
+2024-06-01,Paula,Pad Mouse,Periféricos,11.34,1
+2024-04-15,Jorge,Webcam,Periféricos,71.37,3
+2024-06-16,Florencia,SSD 1TB,Almacenamiento,109.02,3
+2024-02-18,Hernán,"Notebook 14""",Computadoras,842.0,1
+2024-05-15,Sofía,"Notebook 14""",Computadoras,943.38,3
+2024-05-05,Daniela,"Notebook 15""",Computadoras,1071.12,2
+2024-02-18,Agustín,Teclado,Periféricos,45.57,2
+2024-02-10,Nicolás,Mouse,Periféricos,25.9,1
+2024-01-11,Pedro,"Monitor 27""",Pantallas,258.93,2
+2024-06-16,Federico,SSD 1TB,Almacenamiento,125.08,2
+2024-04-18,Carlos,Disco 2TB,Almacenamiento,84.19,4
+2024-03-31,Ana,"Notebook 14""",Computadoras,935.8,1
+2024-06-06,Florencia,Teclado,Periféricos,58.06,1
+2024-06-09,Nicolás,SSD 1TB,Almacenamiento,137.47,2
+2024-05-26,Marcos,Disco 2TB,Almacenamiento,111.32,3
+2024-02-10,Camila,Teclado,Periféricos,61.0,4
+2024-03-15,Lucía,Cargador USB-C,Accesorios,28.15,1
+2024-04-30,Ana,SSD 512GB,Almacenamiento,96.98,1
+2024-01-03,Rocío,"Monitor 27""",Pantallas,249.79,2
+2024-05-23,Carlos,Cable HDMI,Accesorios,12.48,5
+2024-02-24,Valentina,Hub USB-C,Accesorios,33.17,1
+2024-02-18,Marta,Webcam,Periféricos,70.62,1
+2024-06-01,Luis,Parlante BT,Audio,72.13,3
+2024-04-08,Valentina,Cargador USB-C,Accesorios,31.43,1
+2024-03-13,Marta,Teclado,Periféricos,55.0,4
+2024-03-19,Lucía,Webcam,Periféricos,65.53,2
+2024-03-15,Federico,Cable HDMI,Accesorios,9.55,4
+2024-06-04,Camila,Hub USB-C,Accesorios,38.9,2
+2024-02-25,Diego,Webcam,Periféricos,71.52,2
+2024-05-05,Paula,Teclado,Periféricos,39.42,2
+2024-03-04,Daniela,Hub USB-C,Accesorios,29.57,1
+2024-03-05,Marcos,Parlante BT,Audio,75.6,1
+2024-04-22,Camila,"Monitor 24""",Pantallas,199.39,1
+2024-03-07,Nicolás,Cable HDMI,Accesorios,10.47,3
+2024-04-16,Lucía,SSD 1TB,Almacenamiento,120.85,1
+2024-02-28,Marta,SSD 1TB,Almacenamiento,126.98,1
+2024-01-30,Florencia,SSD 1TB,Almacenamiento,130.38,2
+2024-02-04,Luis,Disco 2TB,Almacenamiento,99.49,5
+2024-06-23,Marcos,"Monitor 24""",Pantallas,199.76,2
+2024-02-22,Marta,Cable HDMI,Accesorios,12.53,3
+2024-06-08,Carlos,"Monitor 24""",Pantallas,188.53,3
+2024-05-18,Rocío,Auriculares,Audio,43.71,2
+2024-04-01,Luis,SSD 512GB,Almacenamiento,82.16,1
+2024-01-17,Lucía,Webcam,Periféricos,67.61,2
+2024-05-31,Diego,"Monitor 24""",Pantallas,183.61,2
+2024-05-24,Carlos,"Monitor 24""",Pantallas,206.62,3
+2024-03-31,Diego,"Monitor 24""",Pantallas,203.38,3
+2024-05-18,Lucía,SSD 512GB,Almacenamiento,83.12,2
+2024-01-20,Pedro,Auriculares,Audio,36.51,4
+2024-02-21,Marcos,Webcam,Periféricos,69.75,3
+2024-04-11,Pedro,"Notebook 14""",Computadoras,1006.94,2
+2024-06-27,Sofía,Teclado,Periféricos,54.78,3
+2024-06-23,Ana,Webcam,Periféricos,72.76,2
+2024-03-13,Ana,SSD 1TB,Almacenamiento,142.43,1
+2024-06-21,Lucía,SSD 512GB,Almacenamiento,87.77,2
+2024-02-07,Ana,Pad Mouse,Periféricos,9.66,1
+2024-03-09,Marcos,Parlante BT,Audio,84.44,2
+2024-01-22,Pedro,Hub USB-C,Accesorios,35.64,4
+2024-05-05,Hernán,Teclado,Periféricos,55.42,2
+2024-01-30,Carlos,Cargador USB-C,Accesorios,29.31,2
+2024-01-19,Nicolás,SSD 1TB,Almacenamiento,128.97,2
+2024-05-20,Hernán,Teclado,Periféricos,48.22,5
+2024-04-13,Nicolás,"Monitor 27""",Pantallas,285.66,2
+2024-04-11,Rocío,Parlante BT,Audio,59.2,2
+2024-05-21,Hernán,"Notebook 15""",Computadoras,1005.32,1
+2024-04-28,Nicolás,Auriculares,Audio,41.42,2
+2024-04-11,Luis,Cargador USB-C,Accesorios,23.71,1
+2024-02-08,Federico,Hub USB-C,Accesorios,32.46,2
+2024-04-29,Marta,Cargador USB-C,Accesorios,30.21,2
+2024-03-05,Nicolás,Mouse,Periféricos,24.35,2
+2024-01-13,Carlos,SSD 512GB,Almacenamiento,68.98,2
+2024-03-21,Rocío,Webcam,Periféricos,78.02,4
+2024-02-23,Carlos,Webcam,Periféricos,71.4,1
+2024-06-04,Marcos,SSD 512GB,Almacenamiento,76.72,1
+2024-02-22,Federico,"Notebook 15""",Computadoras,1111.83,2
+2024-01-08,Nicolás,Hub USB-C,Accesorios,39.57,1
+2024-04-28,Marta,Teclado,Periféricos,52.78,1
+2024-02-18,Florencia,"Monitor 24""",Pantallas,210.83,2
+2024-04-02,Paula,Cable HDMI,Accesorios,11.56,2
+2024-03-09,Lucía,Hub USB-C,Accesorios,35.52,2
+2024-06-04,Agustín,Cable HDMI,Accesorios,11.64,1
+2024-06-03,Federico,Hub USB-C,Accesorios,32.41,5
+2024-04-21,Marta,SSD 512GB,Almacenamiento,81.23,1
+2024-06-05,Paula,SSD 512GB,Almacenamiento,83.07,2
+2024-04-29,Marcos,SSD 1TB,Almacenamiento,122.98,1
+2024-01-13,Pedro,Cargador USB-C,Accesorios,29.09,1
+2024-01-24,Carlos,Mouse,Periféricos,21.48,1
+2024-05-19,Carlos,Mouse,Periféricos,28.53,2
+2024-02-17,Paula,Teclado,Periféricos,54.92,2
+2024-04-14,Camila,Webcam,Periféricos,67.94,1
+2024-01-13,Florencia,Parlante BT,Audio,75.29,2
+2024-03-13,Diego,SSD 512GB,Almacenamiento,77.87,5
+2024-06-10,Marta,Hub USB-C,Accesorios,37.24,1
+2024-01-03,Camila,Hub USB-C,Accesorios,34.45,2
+2024-05-28,Luis,"Notebook 15""",Computadoras,1082.83,2
+2024-01-13,Rocío,"Notebook 15""",Computadoras,1198.23,1
+2024-04-27,Camila,Teclado,Periféricos,51.15,1
+2024-03-14,Diego,"Monitor 24""",Pantallas,219.73,1
+2024-06-13,Pedro,Cargador USB-C,Accesorios,28.47,1
+2024-05-10,Lucía,Teclado,Periféricos,50.41,2
+2024-06-30,Camila,SSD 1TB,Almacenamiento,137.62,2
+2024-03-30,Marta,"Notebook 14""",Computadoras,862.06,2
+2024-06-04,Diego,"Monitor 27""",Pantallas,245.57,1
+2024-01-27,Paula,Auriculares,Audio,35.21,2
+2024-06-23,Rocío,"Notebook 14""",Computadoras,890.49,1
+2024-06-01,Ana,Pad Mouse,Periféricos,10.32,3
+2024-05-05,Marcos,"Notebook 15""",Computadoras,1188.55,4
+2024-06-08,Agustín,SSD 1TB,Almacenamiento,145.31,4
+2024-02-28,Ana,Pad Mouse,Periféricos,9.34,1
+2024-04-07,Pedro,Disco 2TB,Almacenamiento,98.2,3
+2024-06-20,Carlos,Webcam,Periféricos,70.14,2
+2024-01-17,Ana,Mouse,Periféricos,25.77,1
+2024-04-15,Hernán,"Monitor 24""",Pantallas,184.84,4
+2024-03-05,Federico,Hub USB-C,Accesorios,31.87,3
+2024-02-26,Nicolás,SSD 512GB,Almacenamiento,82.2,1
+2024-04-23,Sofía,SSD 1TB,Almacenamiento,135.17,1
+2024-02-21,Valentina,SSD 512GB,Almacenamiento,68.74,2
+2024-05-01,Diego,Mouse,Periféricos,22.6,2
+2024-02-07,Luis,Webcam,Periféricos,61.28,2
+2024-01-06,Sofía,Parlante BT,Audio,66.6,2
+2024-04-17,Carlos,"Notebook 14""",Computadoras,917.91,1
+2024-03-10,Nicolás,Hub USB-C,Accesorios,36.24,1
+2024-03-08,Daniela,Cable HDMI,Accesorios,9.87,2
+2024-02-24,Paula,"Notebook 14""",Computadoras,918.49,1
+2024-06-02,Jorge,Teclado,Periféricos,45.89,3
+2024-06-10,Camila,Hub USB-C,Accesorios,39.39,2
+2024-01-08,Marta,"Notebook 15""",Computadoras,1063.55,1
+2024-06-19,Diego,Cargador USB-C,Accesorios,30.79,2
+2024-03-28,Hernán,"Notebook 15""",Computadoras,1128.12,4
+2024-06-04,Luis,"Monitor 27""",Pantallas,266.95,1
+2024-06-19,Federico,Parlante BT,Audio,65.5,2
+2024-06-03,Ana,"Monitor 24""",Pantallas,182.36,1
+2024-04-17,Valentina,"Monitor 24""",Pantallas,189.38,2
+2024-06-03,Pedro,"Notebook 14""",Computadoras,913.56,3
+2024-03-11,Valentina,SSD 512GB,Almacenamiento,71.04,5
+2024-01-18,Marta,Auriculares,Audio,29.31,3
+2024-03-22,Daniela,Hub USB-C,Accesorios,30.96,1
+2024-04-18,Sofía,Webcam,Periféricos,74.87,2
+2024-02-28,Federico,"Monitor 27""",Pantallas,253.22,3
+2024-06-27,Hernán,SSD 1TB,Almacenamiento,135.72,2
+2024-04-24,Carlos,Disco 2TB,Almacenamiento,91.01,5
+2024-04-15,Luis,Hub USB-C,Accesorios,30.57,3
+2024-05-15,Ana,Cable HDMI,Accesorios,11.27,2
+2024-03-08,Carlos,SSD 512GB,Almacenamiento,73.16,2
+2024-05-08,Diego,Hub USB-C,Accesorios,39.22,3
+2024-01-24,Diego,Disco 2TB,Almacenamiento,96.31,3
+2024-06-25,Paula,"Notebook 15""",Computadoras,1011.07,2
+2024-06-29,Marta,Disco 2TB,Almacenamiento,103.2,2
+2024-02-23,Ana,SSD 512GB,Almacenamiento,89.11,1
+2024-04-12,Sofía,Cable HDMI,Accesorios,10.87,2
+2024-01-03,Camila,Mouse,Periféricos,23.02,3
+2024-05-20,Paula,Teclado,Periféricos,45.17,2
+2024-04-10,Lucía,Hub USB-C,Accesorios,37.88,1
+2024-05-05,Diego,Disco 2TB,Almacenamiento,105.8,3
+2024-01-16,Hernán,Mouse,Periféricos,23.01,3
+2024-01-31,Federico,"Notebook 15""",Computadoras,1171.12,2
+2024-06-10,Agustín,"Monitor 27""",Pantallas,266.97,2
+2024-01-17,Agustín,Pad Mouse,Periféricos,12.34,2
+2024-06-01,Carlos,Teclado,Periféricos,50.86,3
+2024-03-21,Hernán,"Monitor 24""",Pantallas,185.88,5
+2024-01-01,Camila,SSD 1TB,Almacenamiento,126.52,1
+2024-06-17,Pedro,"Monitor 27""",Pantallas,275.7,1
+2024-05-20,Marta,Webcam,Periféricos,74.28,1
+2024-03-21,Marcos,"Monitor 24""",Pantallas,185.15,4
+2024-03-05,Sofía,Webcam,Periféricos,68.78,2
+2024-05-25,Carlos,Pad Mouse,Periféricos,6.72,1
+2024-02-12,Daniela,Cable HDMI,Accesorios,9.98,5
+2024-01-27,Diego,Cable HDMI,Accesorios,11.52,2
+2024-03-04,Diego,SSD 512GB,Almacenamiento,82.8,4
+2024-01-22,Agustín,Webcam,Periféricos,67.98,3
+2024-04-28,Nicolás,Mouse,Periféricos,29.04,2
+2024-03-12,Daniela,Cable HDMI,Accesorios,12.35,1
+2024-04-22,Valentina,"Notebook 14""",Computadoras,897.82,1
+2024-05-19,Diego,Parlante BT,Audio,63.0,2
+2024-02-26,Camila,Mouse,Periféricos,25.88,1
+2024-02-02,Valentina,Cable HDMI,Accesorios,13.26,2
+2024-01-19,Nicolás,Parlante BT,Audio,60.75,1
+2024-06-15,Luis,SSD 1TB,Almacenamiento,131.76,4
+2024-01-14,Valentina,Mouse,Periféricos,27.24,3
+2024-03-03,Carlos,Disco 2TB,Almacenamiento,106.61,3
+2024-06-05,Nicolás,Parlante BT,Audio,68.23,2
+2024-06-17,Nicolás,"Monitor 24""",Pantallas,200.52,1
+2024-06-25,Agustín,Cargador USB-C,Accesorios,24.01,1
+2024-03-29,Hernán,Webcam,Periféricos,65.67,3
+2024-06-14,Luis,Cable HDMI,Accesorios,12.12,1
+2024-06-05,Marta,SSD 512GB,Almacenamiento,82.64,2
+2024-02-10,Carlos,Pad Mouse,Periféricos,10.33,3
+2024-02-03,Luis,"Monitor 27""",Pantallas,246.45,2
+2024-01-27,Nicolás,Cable HDMI,Accesorios,13.59,2
+2024-04-09,Hernán,Pad Mouse,Periféricos,11.69,1
+2024-01-02,Camila,SSD 1TB,Almacenamiento,128.21,4
+2024-04-22,Valentina,Disco 2TB,Almacenamiento,102.77,3
+2024-03-23,Paula,SSD 512GB,Almacenamiento,79.27,2
+2024-02-01,Rocío,Parlante BT,Audio,69.15,1
+2024-06-14,Agustín,Mouse,Periféricos,22.12,4
+2024-04-02,Agustín,Teclado,Periféricos,49.3,2
+2024-05-26,Florencia,Disco 2TB,Almacenamiento,117.5,2
+2024-06-16,Valentina,"Notebook 14""",Computadoras,955.26,3
+2024-06-28,Rocío,Webcam,Periféricos,65.34,1
+2024-02-09,Agustín,Mouse,Periféricos,22.1,2
+2024-03-02,Diego,Webcam,Periféricos,80.77,1
+2024-02-17,Camila,"Notebook 15""",Computadoras,1149.85,3
+2024-06-12,Federico,Webcam,Periféricos,70.51,1
+2024-04-11,Rocío,Mouse,Periféricos,27.48,4
+2024-03-13,Valentina,Disco 2TB,Almacenamiento,105.98,3
+2024-02-06,Agustín,Webcam,Periféricos,66.09,3
+2024-02-27,Hernán,Mouse,Periféricos,27.77,2
+2024-04-16,Paula,SSD 1TB,Almacenamiento,121.52,2
+2024-04-07,Ana,SSD 1TB,Almacenamiento,142.49,2
+2024-05-14,Valentina,Pad Mouse,Periféricos,10.0,1
+2024-02-23,Jorge,SSD 512GB,Almacenamiento,86.53,1
+2024-04-30,Daniela,"Monitor 24""",Pantallas,186.58,1
+2024-02-07,Lucía,Webcam,Periféricos,70.28,6
+2024-03-09,Pedro,Mouse,Periféricos,21.65,1
+2024-05-19,Valentina,Teclado,Periféricos,50.5,2
+2024-03-03,Hernán,Parlante BT,Audio,51.17,1
+2024-03-28,Agustín,Webcam,Periféricos,65.55,4
+2024-04-15,Rocío,Disco 2TB,Almacenamiento,110.06,1
+2024-03-20,Pedro,Pad Mouse,Periféricos,11.77,2
+2024-04-27,Sofía,Pad Mouse,Periféricos,6.43,3
+2024-06-06,Nicolás,Parlante BT,Audio,82.14,1
+2024-06-13,Paula,SSD 1TB,Almacenamiento,120.58,3
+2024-04-21,Lucía,Cable HDMI,Accesorios,12.15,1
+2024-02-02,Rocío,"Notebook 15""",Computadoras,1187.23,2
+2024-06-08,Nicolás,"Monitor 27""",Pantallas,255.32,2
+2024-06-12,Florencia,"Monitor 27""",Pantallas,267.08,1
+2024-01-28,Valentina,Cargador USB-C,Accesorios,25.6,1
+2024-05-06,Jorge,SSD 1TB,Almacenamiento,125.75,1
+2024-05-22,Diego,Cable HDMI,Accesorios,12.6,4
+2024-03-14,Nicolás,"Notebook 15""",Computadoras,1177.8,3
+2024-04-07,Federico,Hub USB-C,Accesorios,38.38,3
+2024-06-25,Sofía,"Monitor 24""",Pantallas,196.78,3
+2024-03-28,Rocío,Webcam,Periféricos,63.36,3
+2024-02-18,Marcos,Parlante BT,Audio,70.43,5
+2024-05-10,Daniela,SSD 1TB,Almacenamiento,146.91,2
+2024-01-25,Florencia,Teclado,Periféricos,54.79,4
+2024-03-26,Hernán,Teclado,Periféricos,49.73,2
+2024-06-05,Valentina,Mouse,Periféricos,29.08,1
+2024-06-17,Sofía,"Notebook 14""",Computadoras,896.4,1
+2024-01-30,Nicolás,Webcam,Periféricos,76.82,2
+2024-05-07,Paula,Mouse,Periféricos,24.08,3
+2024-02-26,Lucía,Cable HDMI,Accesorios,13.25,3
+2024-03-19,Camila,Auriculares,Audio,39.55,1
+2024-03-04,Paula,Parlante BT,Audio,60.24,3
+2024-02-29,Federico,SSD 1TB,Almacenamiento,137.48,2
+2024-05-09,Lucía,Disco 2TB,Almacenamiento,112.75,3
+2024-05-03,Carlos,SSD 1TB,Almacenamiento,130.87,2
+2024-04-21,Lucía,Auriculares,Audio,36.14,4
+2024-02-13,Agustín,Teclado,Periféricos,46.4,1
+2024-05-13,Agustín,Webcam,Periféricos,73.53,5
+2024-02-05,Pedro,Parlante BT,Audio,66.14,2
+2024-01-13,Valentina,Cargador USB-C,Accesorios,31.1,3
+2024-02-26,Pedro,Cargador USB-C,Accesorios,25.98,3
+2024-03-20,Nicolás,Auriculares,Audio,35.42,1
+2024-01-02,Carlos,Auriculares,Audio,38.89,3
+2024-03-02,Marcos,"Monitor 24""",Pantallas,185.58,2
+2024-06-14,Pedro,Hub USB-C,Accesorios,32.29,3
+2024-04-19,Marta,"Notebook 15""",Computadoras,1136.7,1
+2024-04-09,Lucía,"Notebook 15""",Computadoras,1130.7,5
+2024-06-09,Marta,Parlante BT,Audio,69.4,2
+2024-03-03,Lucía,Hub USB-C,Accesorios,33.13,6
+2024-04-19,Rocío,Cable HDMI,Accesorios,9.92,3
+2024-04-13,Carlos,Teclado,Periféricos,46.65,6
+2024-03-01,Daniela,Auriculares,Audio,41.83,3
+2024-05-22,Hernán,"Monitor 27""",Pantallas,242.06,5
+2024-02-17,Pedro,"Notebook 15""",Computadoras,1042.01,2
+2024-06-07,Paula,Auriculares,Audio,44.15,2
+2024-04-08,Rocío,SSD 1TB,Almacenamiento,141.07,3
+2024-03-23,Lucía,Hub USB-C,Accesorios,35.48,3
+2024-06-19,Sofía,Mouse,Periféricos,25.08,4
+2024-01-28,Hernán,SSD 1TB,Almacenamiento,117.74,6
+2024-02-01,Carlos,Auriculares,Audio,40.94,3
+2024-04-29,Federico,Cargador USB-C,Accesorios,33.23,3
+2024-03-23,Luis,Disco 2TB,Almacenamiento,100.04,3
+2024-04-13,Camila,"Notebook 14""",Computadoras,884.09,3
+2024-05-27,Ana,SSD 1TB,Almacenamiento,145.17,2
+2024-02-28,Carlos,SSD 1TB,Almacenamiento,137.05,4
+2024-04-03,Lucía,Teclado,Periféricos,52.5,5
+2024-03-15,Diego,SSD 512GB,Almacenamiento,68.41,1
+2024-01-08,Pedro,Parlante BT,Audio,74.27,1
+2024-06-06,Camila,SSD 512GB,Almacenamiento,81.38,1
+2024-06-22,Sofía,Cable HDMI,Accesorios,12.98,2
+2024-02-14,Daniela,Pad Mouse,Periféricos,12.02,2
+2024-06-27,Pedro,Mouse,Periféricos,23.32,1
+2024-04-28,Nicolás,Parlante BT,Audio,69.85,2
+2024-05-03,Valentina,"Monitor 24""",Pantallas,202.1,1
+2024-04-28,Luis,"Monitor 24""",Pantallas,221.82,3
+2024-04-07,Luis,SSD 512GB,Almacenamiento,73.29,1
+2024-04-17,Valentina,Disco 2TB,Almacenamiento,99.04,1
+2024-05-17,Florencia,Cargador USB-C,Accesorios,24.61,1
+2024-01-15,Marcos,Parlante BT,Audio,50.81,2
+2024-05-15,Jorge,"Notebook 15""",Computadoras,1076.86,1
+2024-02-25,Camila,Parlante BT,Audio,61.82,2
+2024-02-05,Agustín,"Notebook 14""",Computadoras,876.79,1
+2024-03-26,Marta,SSD 1TB,Almacenamiento,131.66,1
+2024-03-28,Paula,Disco 2TB,Almacenamiento,102.87,1
+2024-01-22,Nicolás,Disco 2TB,Almacenamiento,80.82,3
+2024-01-10,Agustín,Pad Mouse,Periféricos,9.75,2
+2024-04-08,Daniela,Cargador USB-C,Accesorios,27.57,4
+2024-01-09,Camila,"Notebook 14""",Computadoras,941.43,1
+2024-03-29,Carlos,Hub USB-C,Accesorios,41.11,3
+2024-03-03,Carlos,Hub USB-C,Accesorios,37.71,1
+2024-01-13,Rocío,Pad Mouse,Periféricos,8.03,3
+2024-06-20,Florencia,"Notebook 15""",Computadoras,1075.03,3
+2024-02-17,Agustín,Teclado,Periféricos,41.48,3
+2024-05-20,Carlos,SSD 512GB,Almacenamiento,73.84,5
+2024-01-14,Valentina,"Notebook 15""",Computadoras,1038.34,2
+2024-06-08,Nicolás,Hub USB-C,Accesorios,37.2,2
+2024-04-29,Sofía,Cable HDMI,Accesorios,11.21,1
+2024-05-29,Camila,Cable HDMI,Accesorios,10.88,3
+2024-03-02,Luis,SSD 1TB,Almacenamiento,127.08,3
+2024-06-25,Rocío,Hub USB-C,Accesorios,31.68,3
+2024-02-21,Marcos,Parlante BT,Audio,55.81,1
+2024-03-24,Carlos,Disco 2TB,Almacenamiento,106.81,1
+2024-05-29,Camila,Pad Mouse,Periféricos,11.12,2
+2024-03-21,Ana,Webcam,Periféricos,79.11,1
+2024-05-08,Rocío,Cable HDMI,Accesorios,11.05,3
+2024-06-22,Luis,Webcam,Periféricos,68.26,4
+2024-06-04,Carlos,"Monitor 27""",Pantallas,249.89,2
+2024-05-24,Camila,SSD 1TB,Almacenamiento,133.81,3
+2024-04-03,Federico,Parlante BT,Audio,81.86,2
+2024-03-21,Rocío,Webcam,Periféricos,68.12,4
+2024-02-22,Nicolás,SSD 1TB,Almacenamiento,112.63,2
+2024-03-15,Camila,Cable HDMI,Accesorios,14.3,2
+2024-01-15,Carlos,Webcam,Periféricos,80.21,2
+2024-06-03,Hernán,SSD 1TB,Almacenamiento,128.4,1
+2024-03-05,Federico,SSD 512GB,Almacenamiento,71.64,1
+2024-04-12,Marcos,"Monitor 27""",Pantallas,267.71,1
+2024-01-17,Marta,Auriculares,Audio,41.86,4
+2024-04-11,Sofía,Cargador USB-C,Accesorios,24.19,1
+2024-02-23,Hernán,Disco 2TB,Almacenamiento,97.53,2
+2024-05-28,Florencia,Teclado,Periféricos,47.66,4
+2024-01-17,Marcos,"Notebook 14""",Computadoras,856.18,2
+2024-02-06,Nicolás,"Monitor 24""",Pantallas,207.28,3
+2024-02-12,Rocío,"Notebook 15""",Computadoras,1071.99,3
+2024-03-23,Daniela,"Monitor 24""",Pantallas,173.03,2
+2024-04-13,Marta,Webcam,Periféricos,75.67,1
+2024-02-17,Carlos,Cable HDMI,Accesorios,11.39,3
+2024-04-23,Sofía,Cable HDMI,Accesorios,10.54,3
+2024-05-31,Carlos,SSD 512GB,Almacenamiento,81.99,3
+2024-04-13,Camila,Mouse,Periféricos,27.88,3
+2024-01-15,Florencia,"Notebook 15""",Computadoras,1108.33,3
+2024-06-23,Valentina,Pad Mouse,Periféricos,11.55,3
+2024-04-21,Sofía,SSD 1TB,Almacenamiento,128.03,1
+2024-03-29,Hernán,"Monitor 27""",Pantallas,262.46,4
+2024-04-25,Marta,"Monitor 24""",Pantallas,201.03,2
+2024-04-19,Pedro,"Monitor 27""",Pantallas,237.19,1
+2024-04-30,Daniela,Auriculares,Audio,53.25,2
+2024-04-16,Camila,SSD 1TB,Almacenamiento,140.53,5
+2024-02-09,Nicolás,Webcam,Periféricos,64.36,2
+2024-03-01,Rocío,Mouse,Periféricos,24.2,1
+2024-02-06,Carlos,"Notebook 15""",Computadoras,1108.42,1
+2024-04-11,Federico,Cargador USB-C,Accesorios,32.04,1
+2024-01-30,Hernán,Hub USB-C,Accesorios,37.01,2
+2024-06-15,Paula,Mouse,Periféricos,25.86,3
+2024-05-01,Pedro,SSD 512GB,Almacenamiento,71.72,2
+2024-06-10,Carlos,Cable HDMI,Accesorios,11.45,1
+2024-04-20,Nicolás,SSD 1TB,Almacenamiento,145.73,2
+2024-06-30,Pedro,Pad Mouse,Periféricos,10.46,1
+2024-04-08,Pedro,Hub USB-C,Accesorios,36.48,2
+2024-06-23,Hernán,Parlante BT,Audio,65.67,1
+2024-06-14,Marta,Webcam,Periféricos,65.79,2
+2024-01-06,Valentina,Pad Mouse,Periféricos,7.85,1
+2024-05-22,Sofía,SSD 512GB,Almacenamiento,81.78,3
+2024-06-11,Lucía,SSD 1TB,Almacenamiento,128.82,3
+2024-05-13,Hernán,"Notebook 15""",Computadoras,1062.06,1
+2024-05-25,Carlos,"Notebook 14""",Computadoras,921.55,2
+2024-02-13,Jorge,"Notebook 14""",Computadoras,891.55,1
+2024-01-19,Pedro,"Notebook 15""",Computadoras,1151.59,1
+2024-06-11,Rocío,Mouse,Periféricos,29.49,4
+2024-05-24,Hernán,Pad Mouse,Periféricos,12.66,3
+2024-03-08,Diego,Webcam,Periféricos,67.62,2
+2024-05-23,Sofía,SSD 512GB,Almacenamiento,79.38,1
+2024-01-31,Diego,Parlante BT,Audio,60.59,1
+2024-05-15,Ana,Mouse,Periféricos,30.85,2
+2024-01-08,Luis,"Notebook 14""",Computadoras,900.74,1
+2024-04-17,Jorge,Hub USB-C,Accesorios,35.75,2
+2024-05-25,Rocío,Auriculares,Audio,44.62,1
+2024-04-26,Daniela,"Notebook 15""",Computadoras,1181.32,2
+2024-04-03,Valentina,Cargador USB-C,Accesorios,26.66,3
+2024-01-04,Lucía,Disco 2TB,Almacenamiento,100.03,2
+2024-05-01,Valentina,Cable HDMI,Accesorios,14.11,2
+2024-01-06,Carlos,Parlante BT,Audio,63.12,1
+2024-05-18,Sofía,Cable HDMI,Accesorios,11.89,3
+2024-03-21,Paula,Cargador USB-C,Accesorios,25.7,4
+2024-04-21,Nicolás,"Monitor 24""",Pantallas,217.06,3
+2024-05-16,Agustín,Webcam,Periféricos,81.0,2
+2024-03-13,Agustín,SSD 512GB,Almacenamiento,87.14,1
+2024-03-23,Camila,Disco 2TB,Almacenamiento,98.03,4
+2024-04-21,Pedro,SSD 1TB,Almacenamiento,137.91,3
+2024-02-27,Hernán,Teclado,Periféricos,55.42,1
+2024-04-08,Agustín,"Monitor 27""",Pantallas,250.56,2
+2024-04-08,Nicolás,Teclado,Periféricos,53.18,3
+2024-05-05,Marcos,Cable HDMI,Accesorios,11.32,4
+2024-03-15,Lucía,Webcam,Periféricos,68.94,5
+2024-02-17,Marta,Parlante BT,Audio,64.78,2
+2024-05-11,Valentina,Disco 2TB,Almacenamiento,100.41,2
+2024-03-12,Rocío,Hub USB-C,Accesorios,36.48,3
+2024-05-03,Lucía,Pad Mouse,Periféricos,12.02,2
+2024-04-29,Agustín,SSD 512GB,Almacenamiento,78.21,1
+2024-01-08,Jorge,Pad Mouse,Periféricos,6.69,2
+2024-05-23,Daniela,Cable HDMI,Accesorios,11.19,2
+2024-06-28,Daniela,"Notebook 15""",Computadoras,954.65,2
+2024-06-22,Daniela,Auriculares,Audio,37.5,2
+2024-01-21,Carlos,Disco 2TB,Almacenamiento,106.08,1
+2024-05-27,Hernán,Cable HDMI,Accesorios,12.95,2
+2024-05-09,Lucía,"Monitor 24""",Pantallas,222.64,1
+2024-04-09,Diego,SSD 1TB,Almacenamiento,122.79,2
+2024-02-03,Luis,Parlante BT,Audio,69.38,1
+2024-01-22,Valentina,Cargador USB-C,Accesorios,24.97,2
+2024-03-13,Rocío,Cargador USB-C,Accesorios,26.75,1
+2024-03-19,Valentina,Auriculares,Audio,30.48,4
+2024-05-27,Marta,Hub USB-C,Accesorios,36.56,1
+2024-03-08,Pedro,"Notebook 14""",Computadoras,983.25,1
+2024-02-03,Camila,Disco 2TB,Almacenamiento,99.45,2
+2024-06-07,Camila,Parlante BT,Audio,61.12,4
+2024-06-29,Federico,Parlante BT,Audio,61.94,3
+2024-04-05,Diego,"Monitor 24""",Pantallas,219.97,2
+2024-06-07,Camila,"Notebook 15""",Computadoras,1146.4,3
+2024-02-19,Carlos,Disco 2TB,Almacenamiento,105.43,1
+2024-04-01,Hernán,Cable HDMI,Accesorios,12.74,4
+2024-01-19,Florencia,"Notebook 14""",Computadoras,855.68,1
+2024-02-09,Rocío,Teclado,Periféricos,53.42,2
+2024-04-27,Pedro,Teclado,Periféricos,49.72,1
+2024-06-13,Federico,SSD 1TB,Almacenamiento,120.29,1
+2024-04-16,Agustín,SSD 1TB,Almacenamiento,135.08,1
+2024-03-20,Pedro,"Monitor 24""",Pantallas,196.18,3
+2024-01-10,Rocío,Disco 2TB,Almacenamiento,78.85,1
+2024-06-24,Hernán,Parlante BT,Audio,65.63,2
+2024-05-31,Luis,Parlante BT,Audio,62.73,3
+2024-01-29,Pedro,SSD 512GB,Almacenamiento,82.57,1
+2024-04-12,Daniela,Cable HDMI,Accesorios,13.71,2
+2024-03-18,Pedro,Webcam,Periféricos,72.51,1
+2024-02-05,Agustín,SSD 512GB,Almacenamiento,82.07,6
+2024-06-21,Sofía,Disco 2TB,Almacenamiento,103.68,2
+2024-05-02,Rocío,"Notebook 15""",Computadoras,1107.4,1
+2024-05-28,Diego,SSD 512GB,Almacenamiento,88.08,1
+2024-05-19,Hernán,Cargador USB-C,Accesorios,32.63,2
+2024-05-21,Diego,"Notebook 15""",Computadoras,1095.83,3
+2024-05-02,Daniela,Auriculares,Audio,18.75,2
+2024-01-31,Camila,SSD 512GB,Almacenamiento,83.89,1
+2024-02-01,Marta,Hub USB-C,Accesorios,28.65,4
+2024-03-10,Diego,"Notebook 15""",Computadoras,1077.81,3
+2024-03-12,Ana,Cargador USB-C,Accesorios,31.19,1
+2024-06-20,Marcos,"Monitor 27""",Pantallas,259.47,4
+2024-05-06,Luis,Cargador USB-C,Accesorios,28.73,2
+2024-03-21,Sofía,Disco 2TB,Almacenamiento,111.47,3
+2024-06-11,Pedro,"Monitor 27""",Pantallas,259.42,2
+2024-04-18,Luis,Teclado,Periféricos,53.9,3
+2024-06-19,Jorge,Auriculares,Audio,35.84,1
+2024-03-26,Nicolás,SSD 512GB,Almacenamiento,79.46,2
+2024-02-11,Paula,Webcam,Periféricos,56.99,2
+2024-05-30,Paula,"Monitor 24""",Pantallas,214.96,1
+2024-02-08,Paula,Cargador USB-C,Accesorios,34.19,3
+2024-01-11,Luis,Webcam,Periféricos,77.36,1
+2024-06-19,Hernán,"Monitor 24""",Pantallas,206.34,1
+2024-05-13,Florencia,SSD 512GB,Almacenamiento,74.42,4
+2024-04-27,Daniela,Disco 2TB,Almacenamiento,89.21,2
+2024-04-12,Agustín,Pad Mouse,Periféricos,7.72,3
+2024-04-26,Nicolás,SSD 512GB,Almacenamiento,79.01,6
+2024-04-25,Florencia,SSD 1TB,Almacenamiento,121.96,3
+2024-06-30,Marcos,Cargador USB-C,Accesorios,32.34,3
+2024-04-20,Jorge,"Monitor 27""",Pantallas,277.78,2
+2024-01-14,Marcos,"Notebook 15""",Computadoras,1073.93,1
+2024-01-30,Lucía,"Notebook 15""",Computadoras,1051.1,1
+2024-04-02,Valentina,"Monitor 24""",Pantallas,199.98,4
+2024-02-16,Daniela,SSD 512GB,Almacenamiento,74.59,2
+2024-01-07,Daniela,SSD 1TB,Almacenamiento,148.49,3
+2024-05-17,Florencia,"Notebook 14""",Computadoras,907.27,1
+2024-02-21,Valentina,Teclado,Periféricos,41.45,2
+2024-06-10,Diego,Disco 2TB,Almacenamiento,101.09,2
+2024-03-11,Federico,SSD 1TB,Almacenamiento,126.52,4
+2024-02-05,Pedro,"Notebook 15""",Computadoras,1059.19,3
+2024-06-05,Luis,"Notebook 15""",Computadoras,1103.91,1
+2024-02-16,Carlos,SSD 1TB,Almacenamiento,127.3,3
+2024-06-24,Nicolás,"Notebook 14""",Computadoras,937.36,3
+2024-03-06,Daniela,"Monitor 24""",Pantallas,214.6,2
+2024-01-01,Jorge,"Notebook 14""",Computadoras,917.34,3
+2024-05-13,Florencia,"Notebook 14""",Computadoras,917.44,4
+2024-01-12,Pedro,Teclado,Periféricos,37.34,2
+2024-05-16,Rocío,"Monitor 27""",Pantallas,266.01,2
+2024-04-26,Lucía,Parlante BT,Audio,52.73,1
+2024-01-18,Hernán,"Monitor 27""",Pantallas,274.01,2
+2024-06-09,Lucía,Parlante BT,Audio,66.73,2
+2024-01-11,Marta,Hub USB-C,Accesorios,36.09,3
+2024-06-20,Agustín,Cargador USB-C,Accesorios,31.22,3
+2024-03-25,Marta,Webcam,Periféricos,73.48,3
+2024-04-28,Ana,Pad Mouse,Periféricos,9.84,2
+2024-05-29,Paula,Cargador USB-C,Accesorios,28.39,3
+2024-02-08,Daniela,"Monitor 24""",Pantallas,191.81,2
+2024-05-02,Valentina,SSD 512GB,Almacenamiento,77.42,1
+2024-02-04,Valentina,Parlante BT,Audio,61.55,1
+2024-04-20,Carlos,"Monitor 27""",Pantallas,254.27,1
+2024-06-23,Florencia,Parlante BT,Audio,69.79,2
+2024-02-14,Sofía,Hub USB-C,Accesorios,38.52,2
+2024-03-18,Sofía,Parlante BT,Audio,87.92,2
+2024-01-15,Federico,Cargador USB-C,Accesorios,29.62,3
+2024-01-10,Sofía,"Notebook 15""",Computadoras,1126.22,3
+2024-02-19,Luis,Auriculares,Audio,39.39,1
+2024-04-21,Valentina,Teclado,Periféricos,49.6,2
+2024-01-23,Agustín,"Notebook 15""",Computadoras,1148.89,1
+2024-03-03,Nicolás,Cargador USB-C,Accesorios,22.38,3
+2024-04-20,Pedro,Cable HDMI,Accesorios,14.38,2
+2024-03-07,Marcos,"Monitor 24""",Pantallas,186.6,4
+2024-06-21,Marta,SSD 512GB,Almacenamiento,77.82,1
+2024-04-20,Sofía,Cable HDMI,Accesorios,11.72,1
+2024-02-14,Marcos,Pad Mouse,Periféricos,11.36,1
+2024-04-23,Ana,SSD 512GB,Almacenamiento,79.68,4
+2024-01-26,Valentina,"Monitor 24""",Pantallas,200.6,1
+2024-02-20,Sofía,Disco 2TB,Almacenamiento,100.51,3
+2024-01-19,Paula,SSD 512GB,Almacenamiento,88.14,2
+2024-05-26,Carlos,Disco 2TB,Almacenamiento,91.23,2
+2024-05-05,Marta,Pad Mouse,Periféricos,10.27,1
+2024-06-16,Pedro,Cargador USB-C,Accesorios,27.02,2
+2024-03-27,Agustín,"Monitor 27""",Pantallas,248.88,4
+2024-03-25,Ana,"Notebook 14""",Computadoras,904.15,2
+2024-03-05,Federico,"Monitor 27""",Pantallas,237.36,5
+2024-05-28,Nicolás,"Notebook 14""",Computadoras,859.87,2
+2024-02-14,Agustín,"Notebook 15""",Computadoras,1073.16,2
+2024-03-31,Diego,Auriculares,Audio,44.77,1
+2024-05-16,Marcos,SSD 1TB,Almacenamiento,125.46,1
+2024-02-09,Lucía,Parlante BT,Audio,77.69,3
+2024-04-10,Marta,Cable HDMI,Accesorios,10.76,2
+2024-03-15,Valentina,Pad Mouse,Periféricos,10.95,2
+2024-06-21,Federico,"Notebook 15""",Computadoras,1066.06,1
+2024-04-26,Marta,"Notebook 15""",Computadoras,1084.43,2
+2024-05-25,Camila,"Monitor 27""",Pantallas,245.18,1
+2024-02-04,Lucía,Webcam,Periféricos,79.19,2
+2024-06-21,Daniela,Webcam,Periféricos,62.96,2
+2024-05-26,Nicolás,SSD 1TB,Almacenamiento,129.87,3
+2024-03-13,Paula,Cargador USB-C,Accesorios,24.61,1
+2024-04-13,Florencia,"Monitor 24""",Pantallas,203.83,1
+2024-02-03,Lucía,Mouse,Periféricos,31.71,2
+2024-04-14,Hernán,Cable HDMI,Accesorios,10.17,1
+2024-02-08,Hernán,SSD 1TB,Almacenamiento,137.63,3
+2024-05-04,Carlos,Teclado,Periféricos,53.75,2
+2024-06-16,Luis,"Monitor 24""",Pantallas,214.25,2
+2024-04-08,Diego,Webcam,Periféricos,74.03,3
+2024-03-19,Sofía,SSD 512GB,Almacenamiento,88.39,4
+2024-01-08,Hernán,Cable HDMI,Accesorios,13.53,2
+2024-01-09,Marta,"Monitor 24""",Pantallas,194.76,3
+2024-05-09,Diego,Cargador USB-C,Accesorios,24.37,5
+2024-06-05,Carlos,Cable HDMI,Accesorios,13.34,4
+2024-05-09,Luis,Cable HDMI,Accesorios,11.07,3
+2024-04-28,Pedro,Hub USB-C,Accesorios,28.41,3
+2024-02-28,Nicolás,Parlante BT,Audio,65.39,1
+2024-05-05,Florencia,Cable HDMI,Accesorios,12.8,3
+2024-02-04,Valentina,Auriculares,Audio,35.77,2
+2024-04-11,Federico,"Notebook 14""",Computadoras,892.39,3
+2024-06-27,Ana,"Monitor 24""",Pantallas,200.76,1
+2024-03-20,Diego,Mouse,Periféricos,25.86,2
+2024-06-03,Luis,Hub USB-C,Accesorios,35.71,2
+2024-01-06,Camila,Mouse,Periféricos,26.1,2
+2024-03-21,Florencia,Parlante BT,Audio,66.18,2
+2024-05-06,Carlos,Cargador USB-C,Accesorios,27.04,3
+2024-03-30,Luis,"Notebook 15""",Computadoras,1063.6,1
+2024-02-23,Paula,Pad Mouse,Periféricos,12.01,3
+2024-02-28,Pedro,Hub USB-C,Accesorios,37.58,4
+2024-02-04,Camila,Disco 2TB,Almacenamiento,99.35,1
+2024-01-27,Nicolás,Disco 2TB,Almacenamiento,100.73,2
+2024-06-20,Federico,Mouse,Periféricos,26.68,3
+2024-06-13,Florencia,Webcam,Periféricos,66.79,3
+2024-05-12,Camila,Teclado,Periféricos,49.25,4
+2024-05-03,Sofía,Disco 2TB,Almacenamiento,106.68,2
+2024-02-19,Hernán,Webcam,Periféricos,62.8,1
+2024-01-27,Lucía,Auriculares,Audio,31.98,3
+2024-05-10,Ana,"Notebook 15""",Computadoras,1147.94,1
+2024-04-05,Nicolás,Hub USB-C,Accesorios,36.14,4
+2024-02-03,Florencia,Disco 2TB,Almacenamiento,85.64,2
+2024-06-07,Lucía,"Monitor 27""",Pantallas,238.07,1
+2024-06-01,Nicolás,SSD 1TB,Almacenamiento,128.49,3
+2024-03-25,Pedro,"Notebook 14""",Computadoras,895.75,4
+2024-05-07,Jorge,Teclado,Periféricos,44.0,1
+2024-05-09,Luis,Hub USB-C,Accesorios,27.28,4
+2024-03-09,Rocío,Auriculares,Audio,47.42,3
+2024-04-16,Lucía,"Monitor 24""",Pantallas,174.07,4
+2024-06-14,Carlos,Teclado,Periféricos,52.97,2
+2024-01-01,Rocío,Parlante BT,Audio,68.07,1
+2024-01-04,Nicolás,Parlante BT,Audio,64.3,3
+2024-03-10,Lucía,Parlante BT,Audio,64.58,1
+2024-02-03,Federico,Cable HDMI,Accesorios,11.86,3
+2024-02-08,Lucía,"Monitor 24""",Pantallas,193.95,5
+2024-04-07,Luis,Webcam,Periféricos,71.85,4
+2024-03-08,Hernán,"Notebook 15""",Computadoras,1098.89,3
+2024-05-28,Lucía,SSD 512GB,Almacenamiento,87.59,3
+2024-05-07,Diego,SSD 512GB,Almacenamiento,80.73,2
+2024-03-12,Lucía,"Notebook 15""",Computadoras,1046.81,1
+2024-06-23,Pedro,"Monitor 27""",Pantallas,246.84,1
+2024-03-03,Paula,"Notebook 15""",Computadoras,1055.06,5
+2024-06-06,Marcos,Parlante BT,Audio,48.31,1
+2024-05-01,Florencia,Pad Mouse,Periféricos,8.26,1
+2024-04-19,Paula,Cargador USB-C,Accesorios,24.87,3
+2024-02-26,Luis,SSD 1TB,Almacenamiento,134.04,2
+2024-06-27,Federico,SSD 512GB,Almacenamiento,76.88,3
+2024-05-02,Paula,Hub USB-C,Accesorios,40.23,5
+2024-03-11,Pedro,"Notebook 15""",Computadoras,1103.43,5
+2024-04-05,Federico,Pad Mouse,Periféricos,8.51,2
+2024-03-10,Florencia,Cargador USB-C,Accesorios,29.37,2
+2024-05-08,Lucía,"Monitor 27""",Pantallas,262.72,1
+2024-05-25,Valentina,Webcam,Periféricos,62.03,1
+2024-04-06,Nicolás,Parlante BT,Audio,61.81,1
+2024-03-09,Florencia,Hub USB-C,Accesorios,34.59,1
+2024-02-24,Paula,Webcam,Periféricos,70.21,3
+2024-02-04,Federico,"Monitor 27""",Pantallas,281.54,2
+2024-02-03,Marcos,"Monitor 24""",Pantallas,220.71,6
+2024-06-28,Agustín,Mouse,Periféricos,16.73,2
+2024-03-11,Nicolás,SSD 1TB,Almacenamiento,134.48,2
+2024-04-06,Carlos,"Monitor 24""",Pantallas,212.33,1
+2024-06-18,Luis,"Notebook 14""",Computadoras,928.86,3
+2024-01-28,Federico,Parlante BT,Audio,65.89,1
+2024-05-09,Carlos,"Monitor 24""",Pantallas,204.44,2
+2024-01-22,Diego,"Monitor 24""",Pantallas,168.73,1
+2024-03-14,Daniela,"Monitor 24""",Pantallas,188.81,1
+2024-02-10,Agustín,"Notebook 15""",Computadoras,1167.72,1
+2024-06-16,Ana,"Monitor 24""",Pantallas,202.86,1
+2024-02-26,Jorge,Teclado,Periféricos,42.84,1
+2024-04-30,Daniela,"Monitor 27""",Pantallas,272.01,2
+2024-02-19,Rocío,"Monitor 24""",Pantallas,192.17,2
+2024-03-25,Federico,"Monitor 27""",Pantallas,276.72,3
+2024-04-10,Florencia,SSD 512GB,Almacenamiento,80.81,2
+2024-01-14,Valentina,Disco 2TB,Almacenamiento,92.61,5
+2024-03-19,Nicolás,SSD 1TB,Almacenamiento,139.93,2
+2024-01-19,Valentina,"Notebook 14""",Computadoras,898.93,2
+2024-06-25,Camila,Cargador USB-C,Accesorios,25.67,2
+2024-02-11,Nicolás,Teclado,Periféricos,40.95,2
+2024-05-10,Daniela,SSD 512GB,Almacenamiento,83.22,3
+2024-02-21,Jorge,SSD 1TB,Almacenamiento,133.81,2
+2024-05-31,Agustín,Hub USB-C,Accesorios,39.38,3
+2024-01-10,Luis,"Monitor 27""",Pantallas,257.35,2
+2024-05-13,Pedro,Auriculares,Audio,35.89,2
+2024-03-18,Marcos,Hub USB-C,Accesorios,30.28,2
+2024-02-14,Valentina,Webcam,Periféricos,71.46,2
+2024-03-08,Jorge,SSD 512GB,Almacenamiento,74.11,4
+2024-04-07,Lucía,Disco 2TB,Almacenamiento,74.12,3
+2024-06-16,Diego,"Monitor 27""",Pantallas,272.54,3
+2024-02-15,Daniela,SSD 512GB,Almacenamiento,72.08,5
+2024-06-10,Marcos,Cargador USB-C,Accesorios,28.07,2
+2024-01-18,Daniela,Cable HDMI,Accesorios,12.98,2
+2024-04-26,Sofía,SSD 1TB,Almacenamiento,125.03,3
+2024-04-16,Sofía,Webcam,Periféricos,54.06,1
+2024-05-14,Florencia,Cargador USB-C,Accesorios,27.12,2
+2024-01-23,Sofía,Parlante BT,Audio,67.99,2
+2024-05-10,Hernán,Parlante BT,Audio,60.16,1
+2024-05-28,Carlos,Parlante BT,Audio,59.91,5
+2024-01-14,Ana,Hub USB-C,Accesorios,31.84,1
+2024-02-03,Pedro,"Monitor 27""",Pantallas,270.09,1
+2024-05-01,Carlos,Webcam,Periféricos,70.86,3
+2024-06-18,Ana,"Monitor 24""",Pantallas,197.65,1
+2024-04-15,Hernán,Cable HDMI,Accesorios,12.75,2
+2024-01-12,Camila,Parlante BT,Audio,67.51,3
+2024-02-20,Rocío,Cargador USB-C,Accesorios,26.8,1
+2024-01-02,Daniela,Auriculares,Audio,39.92,2
+2024-02-22,Ana,Hub USB-C,Accesorios,37.72,1
+2024-02-05,Ana,Auriculares,Audio,43.97,1
+2024-01-14,Hernán,"Notebook 14""",Computadoras,917.16,2
+2024-06-15,Florencia,"Notebook 15""",Computadoras,1130.54,3
+2024-06-02,Ana,Hub USB-C,Accesorios,28.07,2
+2024-05-24,Sofía,Teclado,Periféricos,48.4,2
+2024-02-20,Marta,Webcam,Periféricos,85.94,1
+2024-02-02,Lucía,"Monitor 24""",Pantallas,205.03,2
+2024-02-26,Rocío,"Notebook 14""",Computadoras,947.72,1
+2024-03-14,Camila,"Notebook 14""",Computadoras,894.04,3
+2024-01-26,Federico,Mouse,Periféricos,29.83,2
+2024-03-27,Camila,Disco 2TB,Almacenamiento,98.33,1
+2024-03-04,Nicolás,"Monitor 27""",Pantallas,271.17,1
+2024-06-23,Lucía,"Notebook 15""",Computadoras,1103.59,2
+2024-02-04,Carlos,Parlante BT,Audio,61.78,2
+2024-03-12,Carlos,Disco 2TB,Almacenamiento,109.07,1
+2024-06-20,Federico,Disco 2TB,Almacenamiento,94.97,4
+2024-01-13,Florencia,Cargador USB-C,Accesorios,24.24,2
+2024-05-26,Luis,Auriculares,Audio,32.38,1
+2024-02-23,Sofía,Mouse,Periféricos,28.36,1
+2024-05-19,Daniela,Hub USB-C,Accesorios,37.91,3
+2024-01-29,Agustín,Teclado,Periféricos,49.85,1
+2024-04-13,Hernán,Parlante BT,Audio,70.84,1
+2024-04-17,Lucía,"Monitor 24""",Pantallas,237.53,3
+2024-01-02,Diego,Cargador USB-C,Accesorios,26.89,1
+2024-03-13,Marcos,Parlante BT,Audio,72.87,3
+2024-03-14,Carlos,"Notebook 14""",Computadoras,860.98,2
+2024-05-06,Florencia,Parlante BT,Audio,72.8,2
+2024-04-08,Sofía,SSD 512GB,Almacenamiento,73.9,3
+2024-01-26,Ana,"Monitor 24""",Pantallas,192.32,4
+2024-06-16,Diego,Webcam,Periféricos,72.66,2
+2024-03-30,Federico,Mouse,Periféricos,26.46,3
+2024-01-12,Valentina,Pad Mouse,Periféricos,12.84,2
+2024-04-19,Diego,"Monitor 27""",Pantallas,239.53,1
+2024-04-12,Diego,Disco 2TB,Almacenamiento,101.67,3
+2024-02-02,Florencia,SSD 512GB,Almacenamiento,82.78,1
+2024-04-14,Federico,Webcam,Periféricos,73.97,2
+2024-03-23,Carlos,SSD 1TB,Almacenamiento,125.08,1
+2024-01-10,Luis,Teclado,Periféricos,56.76,4
+2024-03-01,Paula,"Monitor 27""",Pantallas,274.77,4
+2024-04-14,Carlos,SSD 512GB,Almacenamiento,78.02,1
+2024-06-26,Rocío,Disco 2TB,Almacenamiento,125.71,2
+2024-03-16,Agustín,Auriculares,Audio,34.94,2
+2024-01-17,Marcos,Cable HDMI,Accesorios,10.71,2
+2024-06-11,Daniela,"Monitor 27""",Pantallas,289.94,1
+2024-02-07,Camila,Disco 2TB,Almacenamiento,107.97,2
+2024-02-28,Paula,Pad Mouse,Periféricos,10.23,1
+2024-05-05,Diego,Disco 2TB,Almacenamiento,73.79,1
+2024-06-07,Carlos,"Notebook 15""",Computadoras,1058.84,3
+2024-03-20,Lucía,Mouse,Periféricos,28.63,3
+2024-06-06,Carlos,"Notebook 14""",Computadoras,869.37,2
+2024-04-04,Pedro,Disco 2TB,Almacenamiento,99.65,2
+2024-06-29,Pedro,Disco 2TB,Almacenamiento,91.45,4
+2024-03-02,Agustín,SSD 1TB,Almacenamiento,116.34,4
+2024-06-20,Marta,Mouse,Periféricos,24.35,2
+2024-02-11,Ana,"Notebook 15""",Computadoras,1066.44,2
+2024-05-01,Nicolás,SSD 1TB,Almacenamiento,145.11,2
+2024-05-15,Marcos,Teclado,Periféricos,48.29,1
+2024-04-22,Pedro,Mouse,Periféricos,22.18,1
+2024-01-09,Sofía,Hub USB-C,Accesorios,33.05,1
+2024-02-27,Nicolás,Hub USB-C,Accesorios,34.67,2
+2024-03-03,Marta,Auriculares,Audio,32.61,2
+2024-05-20,Carlos,SSD 1TB,Almacenamiento,133.3,2
+2024-05-01,Florencia,Mouse,Periféricos,25.88,1
+2024-04-04,Rocío,SSD 512GB,Almacenamiento,87.32,4
+2024-06-30,Federico,Auriculares,Audio,29.56,2
+2024-01-21,Valentina,Hub USB-C,Accesorios,29.51,2
+2024-05-10,Federico,Mouse,Periféricos,27.02,3
+2024-06-01,Florencia,"Monitor 27""",Pantallas,268.23,1
+2024-06-28,Diego,Pad Mouse,Periféricos,5.24,1
+2024-04-07,Federico,Pad Mouse,Periféricos,9.73,3
+2024-03-06,Pedro,"Notebook 14""",Computadoras,917.2,4
+2024-02-28,Valentina,"Notebook 14""",Computadoras,887.18,1
+2024-03-03,Daniela,Webcam,Periféricos,70.17,3
+2024-04-26,Carlos,Pad Mouse,Periféricos,9.87,1
+2024-03-09,Paula,"Notebook 14""",Computadoras,894.1,4
+2024-03-28,Paula,"Notebook 15""",Computadoras,1108.87,2
+2024-05-27,Daniela,Mouse,Periféricos,18.0,1
+2024-06-25,Camila,"Notebook 14""",Computadoras,867.31,1
+2024-04-05,Lucía,Cargador USB-C,Accesorios,30.07,3
+2024-06-22,Rocío,"Monitor 24""",Pantallas,203.0,3
+2024-03-12,Nicolás,Teclado,Periféricos,47.71,3
+2024-05-25,Pedro,"Notebook 15""",Computadoras,1080.37,3
+2024-06-27,Ana,Disco 2TB,Almacenamiento,93.91,2
+2024-06-06,Agustín,Disco 2TB,Almacenamiento,81.12,3
+2024-05-27,Agustín,Cable HDMI,Accesorios,11.2,1
+2024-02-24,Agustín,Hub USB-C,Accesorios,34.56,2
+2024-05-19,Rocío,Webcam,Periféricos,66.51,3
+2024-05-03,Valentina,SSD 512GB,Almacenamiento,79.55,2
+2024-05-01,Rocío,"Monitor 24""",Pantallas,204.85,3
+2024-04-28,Daniela,SSD 512GB,Almacenamiento,79.97,3
+2024-01-15,Sofía,Disco 2TB,Almacenamiento,97.51,1
+2024-06-26,Agustín,"Notebook 15""",Computadoras,1013.97,3
+2024-03-16,Daniela,"Monitor 27""",Pantallas,247.55,2
+2024-01-13,Agustín,Disco 2TB,Almacenamiento,89.45,2
+2024-05-13,Marcos,Disco 2TB,Almacenamiento,101.26,3
+2024-01-21,Camila,Teclado,Periféricos,51.47,3
+2024-06-16,Diego,"Monitor 24""",Pantallas,199.1,2
+2024-02-25,Diego,Pad Mouse,Periféricos,12.55,3
+2024-01-17,Florencia,Auriculares,Audio,40.22,1
+2024-04-08,Nicolás,"Monitor 24""",Pantallas,190.67,1
+2024-01-22,Nicolás,"Notebook 15""",Computadoras,1135.43,2
+2024-05-19,Carlos,Hub USB-C,Accesorios,38.11,2
+2024-06-29,Daniela,Webcam,Periféricos,77.31,3
+2024-02-26,Valentina,"Monitor 27""",Pantallas,267.04,2
+2024-01-05,Marcos,Webcam,Periféricos,80.38,3
+2024-05-17,Paula,Disco 2TB,Almacenamiento,103.24,1
+2024-03-15,Carlos,Cable HDMI,Accesorios,15.04,2
+2024-03-10,Rocío,Cargador USB-C,Accesorios,28.05,2
+2024-06-01,Diego,Disco 2TB,Almacenamiento,86.56,2
+2024-02-14,Florencia,Hub USB-C,Accesorios,36.35,1
+2024-03-10,Florencia,Parlante BT,Audio,70.97,2
+2024-03-24,Camila,Mouse,Periféricos,26.02,4
+2024-05-12,Marta,"Monitor 27""",Pantallas,246.26,1
+2024-06-14,Camila,Pad Mouse,Periféricos,6.84,1
+2024-05-02,Rocío,Parlante BT,Audio,64.94,3
+2024-02-23,Diego,Disco 2TB,Almacenamiento,96.45,3
+2024-03-09,Agustín,Hub USB-C,Accesorios,43.77,5
+2024-02-27,Marta,Auriculares,Audio,31.41,3
+2024-02-22,Marta,"Notebook 14""",Computadoras,922.36,3
+2024-05-16,Lucía,"Monitor 27""",Pantallas,256.03,3
+2024-01-11,Nicolás,SSD 1TB,Almacenamiento,119.66,1
+2024-06-03,Federico,Cable HDMI,Accesorios,11.38,2
+2024-06-12,Diego,Webcam,Periféricos,60.72,4
+2024-06-07,Camila,Auriculares,Audio,45.57,3
+2024-05-09,Daniela,Teclado,Periféricos,46.18,3
+2024-03-09,Valentina,Hub USB-C,Accesorios,34.61,3
+2024-06-12,Carlos,Teclado,Periféricos,55.7,2
+2024-03-10,Pedro,SSD 1TB,Almacenamiento,138.66,3
+2024-01-26,Valentina,SSD 512GB,Almacenamiento,83.54,2
+2024-05-02,Nicolás,"Monitor 24""",Pantallas,205.72,6
+2024-03-02,Hernán,Cargador USB-C,Accesorios,26.09,4
+2024-04-26,Camila,Cargador USB-C,Accesorios,24.81,1
+2024-03-25,Marta,Cable HDMI,Accesorios,13.65,2
+2024-02-27,Nicolás,SSD 512GB,Almacenamiento,90.83,3
+2024-05-17,Carlos,"Notebook 15""",Computadoras,1165.15,2
+2024-03-24,Luis,Teclado,Periféricos,48.02,3
+2024-04-11,Ana,SSD 512GB,Almacenamiento,71.69,1
+2024-06-14,Marta,Pad Mouse,Periféricos,7.03,4
+2024-03-12,Lucía,Pad Mouse,Periféricos,10.57,3
+2024-06-12,Florencia,Pad Mouse,Periféricos,11.64,2
+2024-06-03,Agustín,Hub USB-C,Accesorios,31.34,3
+2024-06-30,Nicolás,"Monitor 27""",Pantallas,276.36,2
+2024-02-27,Federico,Pad Mouse,Periféricos,7.26,3
+2024-02-06,Sofía,Hub USB-C,Accesorios,37.16,2
+2024-05-08,Federico,Auriculares,Audio,39.97,1
+2024-04-14,Rocío,"Monitor 24""",Pantallas,206.94,1
+2024-02-14,Nicolás,Hub USB-C,Accesorios,32.27,2
+2024-02-04,Federico,Auriculares,Audio,44.43,1
+2024-05-23,Jorge,"Monitor 24""",Pantallas,189.8,2
+2024-03-19,Marcos,Mouse,Periféricos,27.94,2
+2024-03-15,Diego,Teclado,Periféricos,49.93,2
+2024-06-26,Florencia,Pad Mouse,Periféricos,7.36,2
+2024-01-26,Camila,SSD 512GB,Almacenamiento,82.75,1
+2024-06-24,Jorge,Cable HDMI,Accesorios,12.92,1
+2024-05-11,Marta,"Notebook 14""",Computadoras,910.62,3
+2024-03-17,Daniela,SSD 512GB,Almacenamiento,73.81,2
+2024-03-20,Rocío,Disco 2TB,Almacenamiento,94.09,3
+2024-01-22,Rocío,Disco 2TB,Almacenamiento,116.86,3
+2024-06-28,Diego,Teclado,Periféricos,48.28,3
+2024-01-22,Camila,SSD 1TB,Almacenamiento,124.03,1
+2024-02-16,Nicolás,Pad Mouse,Periféricos,8.85,1
+2024-02-23,Valentina,Mouse,Periféricos,24.13,2
+2024-02-18,Pedro,SSD 512GB,Almacenamiento,71.74,1
+2024-06-24,Marta,"Monitor 27""",Pantallas,272.37,1
+2024-05-02,Valentina,Teclado,Periféricos,46.81,3
+2024-05-14,Sofía,SSD 1TB,Almacenamiento,122.62,4
+2024-06-25,Pedro,Disco 2TB,Almacenamiento,101.62,1
+2024-04-09,Paula,Webcam,Periféricos,67.52,1
+2024-04-23,Diego,Disco 2TB,Almacenamiento,106.12,2
+2024-04-29,Paula,Pad Mouse,Periféricos,11.08,2
+2024-06-25,Daniela,Pad Mouse,Periféricos,11.74,2
+2024-01-14,Florencia,Pad Mouse,Periféricos,11.36,1
+2024-04-21,Daniela,"Notebook 15""",Computadoras,1107.9,2
+2024-04-28,Pedro,Pad Mouse,Periféricos,10.37,4
+2024-06-07,Agustín,Cable HDMI,Accesorios,12.1,2
+2024-02-02,Rocío,Parlante BT,Audio,60.03,1
+2024-05-10,Camila,Auriculares,Audio,38.01,1
+2024-01-30,Daniela,Webcam,Periféricos,68.66,2
+2024-06-27,Jorge,Disco 2TB,Almacenamiento,91.88,1
+2024-02-13,Florencia,Cargador USB-C,Accesorios,31.37,2
+2024-03-17,Paula,Cargador USB-C,Accesorios,30.34,3
+2024-02-25,Paula,Cable HDMI,Accesorios,11.39,2
+2024-04-27,Daniela,Pad Mouse,Periféricos,8.2,3
+2024-05-05,Carlos,Auriculares,Audio,37.38,4
+2024-01-11,Lucía,"Notebook 15""",Computadoras,1145.5,2
+2024-03-25,Luis,"Notebook 14""",Computadoras,887.94,2
+2024-04-23,Lucía,"Notebook 15""",Computadoras,1104.06,2
+2024-01-30,Sofía,Cable HDMI,Accesorios,10.33,5
+2024-03-12,Diego,Cargador USB-C,Accesorios,28.06,4
+2024-03-23,Florencia,Teclado,Periféricos,48.8,3
+2024-04-06,Diego,Teclado,Periféricos,50.04,1
+2024-01-23,Marcos,SSD 1TB,Almacenamiento,120.37,2
+2024-04-26,Florencia,Parlante BT,Audio,61.5,3
+2024-01-13,Nicolás,"Monitor 24""",Pantallas,200.55,1
+2024-01-18,Paula,Teclado,Periféricos,47.64,1
+2024-01-30,Lucía,"Notebook 15""",Computadoras,1112.95,2
+2024-06-14,Luis,Cable HDMI,Accesorios,12.7,2
+2024-02-19,Marcos,SSD 1TB,Almacenamiento,144.57,3
+2024-06-05,Carlos,Cable HDMI,Accesorios,11.48,1
+2024-05-29,Marta,"Monitor 27""",Pantallas,242.07,4
+2024-04-13,Jorge,SSD 1TB,Almacenamiento,104.95,1
+2024-05-20,Rocío,Hub USB-C,Accesorios,30.6,2
+2024-02-21,Sofía,Webcam,Periféricos,68.86,3
+2024-02-03,Jorge,"Monitor 24""",Pantallas,196.07,1
+2024-03-10,Luis,SSD 1TB,Almacenamiento,122.19,2
+2024-05-26,Florencia,"Notebook 14""",Computadoras,919.21,1
+2024-04-03,Rocío,Pad Mouse,Periféricos,8.24,3
+2024-01-29,Agustín,"Notebook 15""",Computadoras,1041.3,4
+2024-06-22,Valentina,"Notebook 14""",Computadoras,868.45,3
+2024-04-04,Hernán,Teclado,Periféricos,43.64,1
+2024-06-14,Pedro,Hub USB-C,Accesorios,30.84,4
+2024-01-25,Luis,"Notebook 14""",Computadoras,931.55,2
+2024-03-05,Pedro,Webcam,Periféricos,71.75,3
+2024-02-13,Lucía,Webcam,Periféricos,76.37,2
+2024-05-10,Agustín,"Monitor 27""",Pantallas,259.35,3
+2024-06-06,Federico,Cargador USB-C,Accesorios,28.73,3
+2024-06-22,Pedro,"Notebook 14""",Computadoras,848.49,1
+2024-01-31,Paula,Disco 2TB,Almacenamiento,82.98,2
+2024-01-02,Nicolás,Mouse,Periféricos,25.06,3
+2024-06-21,Carlos,Disco 2TB,Almacenamiento,102.83,3
+2024-04-30,Hernán,"Notebook 14""",Computadoras,921.37,3
+2024-01-01,Camila,Cable HDMI,Accesorios,12.18,2
+2024-04-24,Daniela,SSD 512GB,Almacenamiento,79.21,4
+2024-06-23,Diego,Auriculares,Audio,41.93,2
+2024-04-13,Carlos,Cable HDMI,Accesorios,10.8,2
+2024-06-26,Camila,Mouse,Periféricos,28.4,1
+2024-04-18,Florencia,Disco 2TB,Almacenamiento,105.48,1
+2024-03-29,Jorge,Hub USB-C,Accesorios,36.95,1
+2024-05-07,Jorge,Cargador USB-C,Accesorios,27.01,5
+2024-03-09,Marcos,SSD 512GB,Almacenamiento,85.21,2
+2024-01-07,Valentina,SSD 512GB,Almacenamiento,73.56,2
+2024-02-24,Florencia,Webcam,Periféricos,62.11,3
+2024-06-25,Diego,Cargador USB-C,Accesorios,27.33,1
+2024-01-21,Agustín,Parlante BT,Audio,65.19,3
+2024-01-19,Luis,Teclado,Periféricos,53.69,2
+2024-05-30,Nicolás,Auriculares,Audio,37.04,4
+2024-01-19,Marta,Pad Mouse,Periféricos,9.73,1
+2024-04-29,Nicolás,Cable HDMI,Accesorios,9.21,1
+2024-03-28,Ana,Hub USB-C,Accesorios,34.43,3
+2024-05-06,Jorge,Webcam,Periféricos,74.43,2
+2024-01-12,Valentina,Pad Mouse,Periféricos,8.31,2
+2024-06-19,Marcos,Mouse,Periféricos,20.35,1
+2024-01-27,Camila,"Notebook 14""",Computadoras,871.68,2
+2024-04-01,Carlos,SSD 1TB,Almacenamiento,120.21,2
+2024-02-24,Sofía,Parlante BT,Audio,71.12,2
+2024-06-23,Federico,"Notebook 15""",Computadoras,1115.37,2
+2024-02-28,Lucía,Hub USB-C,Accesorios,34.17,2
+2024-01-17,Carlos,Teclado,Periféricos,42.08,1
+2024-01-24,Ana,"Monitor 24""",Pantallas,201.53,5
+2024-05-25,Daniela,Mouse,Periféricos,24.96,2
+2024-06-30,Pedro,"Monitor 27""",Pantallas,274.41,2
+2024-02-22,Hernán,Cable HDMI,Accesorios,11.65,5
+2024-01-15,Ana,Auriculares,Audio,34.2,2
+2024-01-29,Agustín,Teclado,Periféricos,45.97,1
+2024-01-15,Paula,Webcam,Periféricos,70.5,3
+2024-02-28,Daniela,Mouse,Periféricos,24.48,2
+2024-06-05,Lucía,Disco 2TB,Almacenamiento,114.04,1
+2024-01-18,Carlos,Teclado,Periféricos,50.24,4
+2024-03-07,Marta,SSD 512GB,Almacenamiento,71.48,1
+2024-03-18,Camila,"Notebook 15""",Computadoras,1201.02,1
+2024-05-17,Pedro,Disco 2TB,Almacenamiento,100.6,2
+2024-03-26,Pedro,Webcam,Periféricos,75.44,1
+2024-05-30,Carlos,Auriculares,Audio,39.92,2
+2024-03-18,Rocío,Pad Mouse,Periféricos,7.65,3
+2024-03-21,Nicolás,SSD 1TB,Almacenamiento,128.01,3
+2024-03-07,Jorge,Webcam,Periféricos,71.23,2
+2024-06-05,Paula,Cable HDMI,Accesorios,13.31,1
+2024-05-14,Jorge,Mouse,Periféricos,24.17,1
+2024-06-08,Marta,Webcam,Periféricos,64.12,2
+2024-01-06,Marta,Disco 2TB,Almacenamiento,96.07,1
+2024-04-11,Camila,Hub USB-C,Accesorios,34.22,4
+2024-03-05,Agustín,Webcam,Periféricos,70.81,1
+2024-06-10,Lucía,"Notebook 14""",Computadoras,919.86,2
+2024-04-25,Carlos,"Monitor 27""",Pantallas,243.12,1
+2024-04-15,Florencia,"Notebook 15""",Computadoras,1015.64,3
+2024-04-09,Ana,"Notebook 15""",Computadoras,1133.55,1
+2024-04-12,Jorge,"Monitor 24""",Pantallas,208.05,2
+2024-02-06,Federico,"Notebook 15""",Computadoras,1132.23,1
+2024-04-12,Luis,"Monitor 27""",Pantallas,275.47,1
+2024-02-22,Daniela,Disco 2TB,Almacenamiento,94.82,4
+2024-05-27,Marta,"Monitor 27""",Pantallas,282.09,1
+2024-05-03,Daniela,Mouse,Periféricos,27.97,3
+2024-04-15,Hernán,Auriculares,Audio,42.44,3
+2024-02-10,Camila,SSD 512GB,Almacenamiento,82.98,2
+2024-05-26,Pedro,Disco 2TB,Almacenamiento,94.99,2
+2024-01-27,Diego,Hub USB-C,Accesorios,34.83,3
+2024-06-09,Camila,Pad Mouse,Periféricos,9.59,3
+2024-04-10,Daniela,Mouse,Periféricos,26.3,1
+2024-06-16,Ana,Mouse,Periféricos,25.0,5
+2024-04-10,Ana,"Notebook 14""",Computadoras,955.94,4
+2024-01-01,Jorge,Parlante BT,Audio,78.31,2
+2024-02-09,Luis,Disco 2TB,Almacenamiento,91.47,2
+2024-06-29,Hernán,"Notebook 15""",Computadoras,1103.64,3
+2024-06-22,Hernán,Hub USB-C,Accesorios,31.87,3
+2024-02-18,Paula,Disco 2TB,Almacenamiento,111.19,1
+2024-05-15,Carlos,Webcam,Periféricos,56.18,2
+2024-05-06,Marcos,Mouse,Periféricos,21.83,2
+2024-02-21,Valentina,Mouse,Periféricos,21.95,2
+2024-05-28,Hernán,"Monitor 24""",Pantallas,215.2,2
+2024-01-06,Pedro,SSD 512GB,Almacenamiento,81.28,2
+2024-02-15,Federico,Mouse,Periféricos,32.97,3
+2024-05-18,Valentina,Hub USB-C,Accesorios,32.81,1
+2024-01-11,Lucía,Parlante BT,Audio,64.59,2
+2024-02-22,Lucía,Mouse,Periféricos,27.69,1
+2024-02-25,Paula,Teclado,Periféricos,45.76,4
+2024-06-28,Nicolás,Parlante BT,Audio,73.74,2
+2024-01-22,Valentina,Pad Mouse,Periféricos,10.81,3
+2024-04-12,Marta,Auriculares,Audio,36.3,5
+2024-03-17,Pedro,Auriculares,Audio,40.15,2
+2024-05-31,Sofía,Cargador USB-C,Accesorios,28.24,2
+2024-06-03,Camila,"Notebook 14""",Computadoras,935.86,3
+2024-06-18,Sofía,SSD 1TB,Almacenamiento,119.7,3
+2024-03-17,Pedro,"Notebook 14""",Computadoras,950.17,4
+2024-02-23,Marta,Auriculares,Audio,44.77,1
+2024-04-08,Agustín,Hub USB-C,Accesorios,42.98,5
+2024-04-28,Marcos,Mouse,Periféricos,22.19,3
+2024-02-11,Marcos,Mouse,Periféricos,25.44,2
+2024-06-03,Daniela,Cable HDMI,Accesorios,11.11,4
+2024-01-20,Hernán,SSD 1TB,Almacenamiento,114.11,4
+2024-02-07,Luis,Cargador USB-C,Accesorios,29.89,1
+2024-02-13,Diego,Pad Mouse,Periféricos,10.03,1
+2024-05-24,Camila,Pad Mouse,Periféricos,9.37,5
+2024-06-19,Marcos,Teclado,Periféricos,46.26,1
+2024-06-30,Diego,Teclado,Periféricos,51.47,3
+2024-03-26,Lucía,Auriculares,Audio,36.62,2
+2024-04-30,Luis,Auriculares,Audio,50.29,3
+2024-06-30,Lucía,Parlante BT,Audio,65.71,1
+2024-01-08,Daniela,SSD 1TB,Almacenamiento,137.97,3
+2024-02-23,Federico,Webcam,Periféricos,85.5,2
+2024-05-01,Sofía,Parlante BT,Audio,49.83,2
+2024-05-10,Florencia,Hub USB-C,Accesorios,32.65,1
+2024-06-10,Lucía,SSD 512GB,Almacenamiento,92.64,3
+2024-06-25,Lucía,Hub USB-C,Accesorios,34.59,4
+2024-05-02,Agustín,"Notebook 14""",Computadoras,982.11,3
+2024-02-09,Carlos,SSD 1TB,Almacenamiento,135.37,3
+2024-03-23,Marta,Parlante BT,Audio,64.52,2
+2024-04-22,Sofía,"Monitor 27""",Pantallas,230.78,2
+2024-04-19,Hernán,Parlante BT,Audio,60.1,3
+2024-05-14,Federico,Mouse,Periféricos,20.39,1
+2024-04-02,Nicolás,"Notebook 15""",Computadoras,1086.31,1
+2024-05-20,Valentina,SSD 512GB,Almacenamiento,79.9,3
+2024-03-20,Carlos,Cable HDMI,Accesorios,13.8,1
+2024-02-26,Ana,SSD 1TB,Almacenamiento,135.93,1
+2024-04-12,Jorge,"Notebook 15""",Computadoras,1074.84,6
+2024-05-15,Diego,"Notebook 15""",Computadoras,1213.16,5
+2024-03-11,Rocío,"Monitor 27""",Pantallas,247.94,4
+2024-03-01,Nicolás,SSD 1TB,Almacenamiento,130.0,1
+2024-06-01,Diego,Cargador USB-C,Accesorios,30.83,1
+2024-01-10,Jorge,"Monitor 27""",Pantallas,280.22,2
+2024-03-17,Pedro,Auriculares,Audio,27.49,1
+2024-01-31,Paula,Auriculares,Audio,39.01,2
+2024-04-02,Lucía,SSD 1TB,Almacenamiento,135.24,3
+2024-03-26,Ana,SSD 512GB,Almacenamiento,77.62,1
+2024-06-12,Ana,Disco 2TB,Almacenamiento,99.16,2
+2024-06-02,Valentina,Teclado,Periféricos,50.35,2
+2024-01-14,Jorge,"Monitor 27""",Pantallas,267.37,3
+2024-06-05,Paula,Cargador USB-C,Accesorios,25.15,2
+2024-01-19,Luis,Webcam,Periféricos,71.7,2
+2024-02-02,Marcos,Mouse,Periféricos,22.93,2
+2024-04-30,Luis,"Monitor 27""",Pantallas,229.22,3
+2024-02-17,Hernán,Hub USB-C,Accesorios,33.57,2
+2024-06-20,Camila,Cable HDMI,Accesorios,12.2,3
+2024-04-30,Carlos,Teclado,Periféricos,53.85,2
+2024-05-03,Hernán,Webcam,Periféricos,74.83,2
+2024-02-06,Federico,Mouse,Periféricos,25.2,1
+2024-05-13,Diego,Parlante BT,Audio,82.22,2
+2024-02-20,Paula,Webcam,Periféricos,72.57,2
+2024-04-15,Lucía,"Notebook 15""",Computadoras,1081.64,2
+2024-05-18,Marcos,SSD 512GB,Almacenamiento,78.78,5
+2024-05-07,Federico,SSD 512GB,Almacenamiento,70.39,3
+2024-02-12,Agustín,Cable HDMI,Accesorios,12.86,3
+2024-01-15,Marcos,"Monitor 27""",Pantallas,274.97,1
+2024-02-26,Carlos,"Monitor 24""",Pantallas,187.35,2
+2024-05-25,Pedro,Teclado,Periféricos,39.83,2
+2024-02-12,Pedro,Teclado,Periféricos,43.09,1
+2024-06-14,Sofía,Cable HDMI,Accesorios,12.17,2
+2024-05-09,Nicolás,SSD 512GB,Almacenamiento,78.44,3
+2024-03-08,Paula,Teclado,Periféricos,55.96,1
+2024-01-30,Florencia,SSD 1TB,Almacenamiento,123.18,2
+2024-02-05,Jorge,Cable HDMI,Accesorios,10.22,3
+2024-03-15,Valentina,Cable HDMI,Accesorios,12.97,2
+2024-06-13,Marcos,Teclado,Periféricos,37.97,2
+2024-05-10,Carlos,Pad Mouse,Periféricos,11.2,1
+2024-05-21,Valentina,Parlante BT,Audio,51.42,2
+2024-01-26,Jorge,SSD 512GB,Almacenamiento,75.75,2
+2024-05-01,Pedro,Mouse,Periféricos,19.94,1
+2024-02-21,Lucía,SSD 1TB,Almacenamiento,122.39,1
+2024-01-22,Federico,Parlante BT,Audio,76.02,5
+2024-04-14,Valentina,"Notebook 14""",Computadoras,893.24,2
+2024-04-15,Sofía,Auriculares,Audio,38.28,1
+2024-05-05,Federico,Cable HDMI,Accesorios,13.44,1
+2024-01-16,Florencia,"Monitor 27""",Pantallas,255.46,2
+2024-03-02,Marta,Cable HDMI,Accesorios,13.64,1
+2024-05-04,Marta,Webcam,Periféricos,59.93,3
+2024-05-11,Marta,Auriculares,Audio,38.53,2
+2024-03-28,Luis,"Monitor 27""",Pantallas,262.92,5
+2024-01-15,Pedro,"Monitor 24""",Pantallas,187.13,3
+2024-03-04,Federico,SSD 1TB,Almacenamiento,125.51,1
+2024-01-25,Carlos,"Notebook 14""",Computadoras,889.8,1
+2024-05-13,Carlos,Auriculares,Audio,33.3,1
+2024-03-10,Carlos,"Monitor 24""",Pantallas,186.98,1
+2024-06-17,Nicolás,Webcam,Periféricos,84.83,3
+2024-02-05,Carlos,SSD 512GB,Almacenamiento,90.92,1
+2024-01-28,Marta,Parlante BT,Audio,75.41,1
+2024-04-10,Nicolás,Parlante BT,Audio,68.51,3
+2024-01-01,Sofía,Hub USB-C,Accesorios,37.07,2
+2024-05-17,Federico,Cargador USB-C,Accesorios,18.45,5
+2024-01-10,Ana,Disco 2TB,Almacenamiento,91.71,2
+2024-01-28,Paula,Pad Mouse,Periféricos,7.33,3
+2024-04-22,Camila,"Monitor 24""",Pantallas,202.33,2
+2024-03-01,Sofía,"Notebook 14""",Computadoras,864.87,3
+2024-01-10,Marcos,Cable HDMI,Accesorios,12.34,1
+2024-01-30,Pedro,Parlante BT,Audio,75.51,1
+2024-01-20,Rocío,"Monitor 27""",Pantallas,260.66,1
+2024-04-09,Valentina,Cargador USB-C,Accesorios,31.72,5
+2024-02-12,Paula,Cargador USB-C,Accesorios,30.01,1
+2024-04-03,Luis,Mouse,Periféricos,27.74,1
+2024-04-15,Marcos,Disco 2TB,Almacenamiento,107.62,2
+2024-03-14,Pedro,Hub USB-C,Accesorios,33.49,2
+2024-06-14,Jorge,"Monitor 27""",Pantallas,242.03,3
+2024-03-14,Florencia,Auriculares,Audio,42.51,3
+2024-06-07,Federico,SSD 1TB,Almacenamiento,118.91,2
+2024-03-30,Daniela,Cargador USB-C,Accesorios,22.19,2
+2024-01-19,Camila,SSD 512GB,Almacenamiento,87.28,2
+2024-05-07,Federico,"Notebook 14""",Computadoras,840.94,2
+2024-03-29,Sofía,Auriculares,Audio,27.38,2
+2024-05-23,Agustín,"Monitor 27""",Pantallas,265.19,1
+2024-03-17,Ana,"Notebook 14""",Computadoras,865.94,2
+2024-02-28,Luis,Cargador USB-C,Accesorios,28.02,2
+2024-04-05,Hernán,SSD 1TB,Almacenamiento,145.71,1
+2024-03-14,Diego,"Monitor 27""",Pantallas,257.79,2
+2024-05-17,Sofía,Teclado,Periféricos,60.61,2
+2024-01-20,Lucía,"Monitor 27""",Pantallas,256.2,2
+2024-02-23,Marcos,Parlante BT,Audio,66.14,4
+2024-01-03,Lucía,Disco 2TB,Almacenamiento,114.09,1
+2024-03-26,Camila,Pad Mouse,Periféricos,11.15,3
+2024-06-13,Sofía,"Monitor 27""",Pantallas,249.78,1
+2024-01-20,Diego,SSD 512GB,Almacenamiento,75.35,1
+2024-05-15,Camila,Auriculares,Audio,33.64,3
+2024-04-03,Camila,Webcam,Periféricos,72.13,2
+2024-03-13,Diego,"Monitor 24""",Pantallas,181.24,2
+2024-02-17,Daniela,"Notebook 15""",Computadoras,1029.48,1
+2024-02-27,Sofía,Cargador USB-C,Accesorios,30.9,1
+2024-04-22,Luis,Mouse,Periféricos,18.4,3
+2024-02-27,Luis,"Monitor 27""",Pantallas,255.52,3
+2024-05-22,Rocío,"Monitor 27""",Pantallas,285.26,1
+2024-05-20,Ana,Cargador USB-C,Accesorios,29.02,4
+2024-02-12,Ana,SSD 512GB,Almacenamiento,78.78,3
+2024-06-25,Rocío,"Monitor 24""",Pantallas,199.74,4
+2024-03-16,Pedro,SSD 512GB,Almacenamiento,70.84,1
+2024-04-03,Sofía,SSD 512GB,Almacenamiento,86.45,2
+2024-01-15,Luis,Auriculares,Audio,42.87,1
+2024-06-20,Pedro,Webcam,Periféricos,61.5,3
+2024-06-30,Marta,SSD 1TB,Almacenamiento,133.23,3
+2024-03-13,Carlos,SSD 1TB,Almacenamiento,123.11,2
+2024-02-24,Federico,Teclado,Periféricos,54.96,3
+2024-02-23,Agustín,"Notebook 15""",Computadoras,1081.68,5
+2024-04-20,Agustín,Webcam,Periféricos,74.83,2
+2024-03-23,Sofía,Hub USB-C,Accesorios,31.06,2
+2024-04-20,Daniela,SSD 512GB,Almacenamiento,75.55,2
+2024-05-09,Sofía,SSD 1TB,Almacenamiento,123.49,2
+2024-05-23,Lucía,Pad Mouse,Periféricos,9.7,2
+2024-02-07,Federico,"Notebook 15""",Computadoras,1094.5,2
+2024-02-20,Valentina,Webcam,Periféricos,73.08,2
+2024-04-19,Sofía,Auriculares,Audio,48.67,2
+2024-05-07,Diego,Disco 2TB,Almacenamiento,93.92,3
+2024-05-25,Diego,Parlante BT,Audio,71.5,2
+2024-03-03,Sofía,SSD 512GB,Almacenamiento,87.51,2
+2024-05-05,Rocío,"Monitor 27""",Pantallas,270.82,2
+2024-04-08,Diego,Teclado,Periféricos,49.68,4
+2024-04-27,Daniela,Webcam,Periféricos,60.33,3
+2024-01-01,Agustín,Mouse,Periféricos,21.8,1
+2024-06-23,Lucía,SSD 1TB,Almacenamiento,110.71,3
+2024-05-22,Agustín,Pad Mouse,Periféricos,10.0,1
+2024-04-08,Carlos,SSD 512GB,Almacenamiento,76.45,2
+2024-01-23,Nicolás,Auriculares,Audio,35.55,2
+2024-05-07,Marcos,"Monitor 24""",Pantallas,202.58,4
+2024-06-08,Lucía,Mouse,Periféricos,21.68,2
+2024-03-28,Camila,"Notebook 14""",Computadoras,807.11,2
+2024-01-10,Marta,Auriculares,Audio,41.5,1
+2024-06-20,Luis,Disco 2TB,Almacenamiento,105.02,2
+2024-06-23,Nicolás,Hub USB-C,Accesorios,36.36,1
+2024-02-22,Sofía,Hub USB-C,Accesorios,34.08,3
+2024-03-19,Daniela,Disco 2TB,Almacenamiento,104.86,4
+2024-02-21,Camila,Disco 2TB,Almacenamiento,96.75,2
+2024-05-16,Marta,Cargador USB-C,Accesorios,28.72,3
+2024-06-09,Diego,"Monitor 27""",Pantallas,253.62,1
+2024-02-26,Sofía,Cable HDMI,Accesorios,12.52,2
+2024-03-10,Carlos,Parlante BT,Audio,63.72,3
+2024-02-26,Valentina,Auriculares,Audio,45.74,3
+2024-02-03,Agustín,"Notebook 14""",Computadoras,929.68,4
+2024-04-18,Marta,Mouse,Periféricos,24.25,2
+2024-04-27,Agustín,Pad Mouse,Periféricos,9.19,3
+2024-05-05,Federico,Pad Mouse,Periféricos,6.78,3
+2024-04-01,Carlos,Mouse,Periféricos,23.68,2
+2024-05-02,Agustín,Cargador USB-C,Accesorios,25.46,2
+2024-01-13,Ana,Hub USB-C,Accesorios,36.07,3
+2024-05-01,Sofía,Hub USB-C,Accesorios,34.82,3
+2024-06-05,Sofía,Parlante BT,Audio,57.31,1
+2024-02-13,Marta,SSD 512GB,Almacenamiento,77.31,2
+2024-03-07,Jorge,"Monitor 24""",Pantallas,189.37,2
+2024-06-25,Paula,"Notebook 14""",Computadoras,913.32,1
+2024-05-25,Valentina,"Notebook 15""",Computadoras,1090.15,2
+2024-04-12,Lucía,Teclado,Periféricos,48.37,1
+2024-01-15,Luis,Disco 2TB,Almacenamiento,105.33,4
+2024-05-17,Diego,Cargador USB-C,Accesorios,27.77,3
+2024-01-23,Pedro,Parlante BT,Audio,49.36,1
+2024-02-09,Camila,Auriculares,Audio,42.62,1
+2024-03-09,Paula,Mouse,Periféricos,26.65,5
+2024-05-18,Valentina,Cargador USB-C,Accesorios,29.33,1
+2024-03-13,Jorge,Teclado,Periféricos,50.22,3
+2024-02-12,Ana,"Monitor 24""",Pantallas,199.66,1
+2024-03-13,Sofía,"Notebook 15""",Computadoras,1089.14,3
+2024-04-27,Carlos,Cargador USB-C,Accesorios,29.0,4
+2024-04-23,Marta,"Notebook 15""",Computadoras,1142.58,3
+2024-06-15,Federico,Cargador USB-C,Accesorios,27.64,4
+2024-05-18,Daniela,"Notebook 14""",Computadoras,905.75,2
+2024-06-12,Carlos,Disco 2TB,Almacenamiento,109.97,2
+2024-01-31,Sofía,SSD 1TB,Almacenamiento,125.43,1
+2024-06-23,Federico,SSD 1TB,Almacenamiento,129.41,3
+2024-02-01,Sofía,Cable HDMI,Accesorios,11.18,2
+2024-02-17,Luis,"Notebook 14""",Computadoras,908.38,4
+2024-01-25,Nicolás,Cable HDMI,Accesorios,11.25,1
+2024-02-28,Marcos,"Monitor 27""",Pantallas,261.24,6
+2024-05-13,Marcos,Parlante BT,Audio,73.62,1
+2024-01-25,Pedro,Teclado,Periféricos,55.47,3
+2024-06-26,Carlos,SSD 1TB,Almacenamiento,144.85,2
+2024-04-19,Florencia,Hub USB-C,Accesorios,36.9,1
+2024-05-27,Diego,"Monitor 27""",Pantallas,254.48,1
+2024-02-12,Florencia,Parlante BT,Audio,73.05,1
+2024-02-15,Federico,Hub USB-C,Accesorios,32.75,3
+2024-05-27,Florencia,Cargador USB-C,Accesorios,28.29,3
+2024-05-24,Diego,"Monitor 27""",Pantallas,254.69,2
+2024-01-15,Daniela,"Notebook 15""",Computadoras,1134.88,1
+2024-02-15,Carlos,Disco 2TB,Almacenamiento,91.64,3
+2024-06-29,Luis,Webcam,Periféricos,70.2,3
+2024-03-15,Marta,Cable HDMI,Accesorios,10.46,1
+2024-04-14,Sofía,Pad Mouse,Periféricos,12.55,4
+2024-03-20,Jorge,"Monitor 24""",Pantallas,213.89,2
+2024-05-26,Pedro,Parlante BT,Audio,67.46,3
+2024-06-13,Paula,Mouse,Periféricos,24.21,1
+2024-06-16,Paula,"Monitor 24""",Pantallas,198.34,2
+2024-05-23,Pedro,"Notebook 14""",Computadoras,806.47,3
+2024-05-05,Agustín,Mouse,Periféricos,21.85,1
+2024-06-06,Carlos,Disco 2TB,Almacenamiento,102.6,2
+2024-05-16,Florencia,Disco 2TB,Almacenamiento,100.2,4
+2024-01-31,Florencia,SSD 512GB,Almacenamiento,93.33,1
+2024-03-20,Marcos,Cable HDMI,Accesorios,11.97,2
+2024-06-24,Ana,Hub USB-C,Accesorios,34.76,3
+2024-04-16,Marta,Hub USB-C,Accesorios,34.12,1
+2024-04-16,Pedro,Webcam,Periféricos,71.47,1
+2024-02-19,Diego,Teclado,Periféricos,44.87,2
+2024-02-28,Marta,Teclado,Periféricos,51.85,3
+2024-05-24,Valentina,SSD 1TB,Almacenamiento,128.86,2
+2024-01-21,Paula,"Notebook 14""",Computadoras,866.08,3
+2024-04-22,Federico,Cargador USB-C,Accesorios,28.65,1
+2024-03-09,Diego,Cargador USB-C,Accesorios,26.75,1
+2024-01-28,Luis,Pad Mouse,Periféricos,8.5,2
+2024-03-14,Marcos,Disco 2TB,Almacenamiento,75.38,3
+2024-02-04,Pedro,Disco 2TB,Almacenamiento,97.22,5
+2024-04-09,Luis,Disco 2TB,Almacenamiento,87.12,1
+2024-05-01,Agustín,"Monitor 27""",Pantallas,255.52,6
+2024-06-19,Luis,Cargador USB-C,Accesorios,32.0,1
+2024-01-26,Marcos,SSD 1TB,Almacenamiento,116.24,5
+2024-03-01,Ana,SSD 512GB,Almacenamiento,77.02,3
+2024-04-22,Valentina,"Notebook 15""",Computadoras,1088.61,2
+2024-05-19,Marcos,Cargador USB-C,Accesorios,29.91,3
+2024-01-29,Marta,"Monitor 27""",Pantallas,239.04,1
+2024-04-21,Pedro,"Notebook 15""",Computadoras,1046.2,2
+2024-05-17,Nicolás,SSD 512GB,Almacenamiento,80.92,1
+2024-04-23,Marcos,Hub USB-C,Accesorios,31.25,1
+2024-06-25,Rocío,Mouse,Periféricos,24.41,3
+2024-03-09,Jorge,Cable HDMI,Accesorios,8.13,6
+2024-05-25,Jorge,Hub USB-C,Accesorios,36.59,4
+2024-05-11,Daniela,SSD 1TB,Almacenamiento,118.99,2
+2024-02-07,Luis,Pad Mouse,Periféricos,11.07,2
+2024-06-09,Carlos,"Notebook 15""",Computadoras,1104.1,4
+2024-05-06,Hernán,Disco 2TB,Almacenamiento,99.32,2
+2024-03-05,Pedro,Auriculares,Audio,50.46,2
+2024-04-24,Sofía,"Monitor 24""",Pantallas,212.1,5
+2024-05-20,Jorge,Parlante BT,Audio,75.6,2
+2024-01-21,Lucía,Parlante BT,Audio,62.57,4
+2024-03-12,Nicolás,Parlante BT,Audio,61.64,2
+2024-01-02,Camila,"Monitor 24""",Pantallas,194.2,4
+2024-04-03,Marcos,SSD 1TB,Almacenamiento,142.0,2
+2024-03-22,Nicolás,Disco 2TB,Almacenamiento,117.34,3
+2024-06-03,Marta,Auriculares,Audio,33.5,2
+2024-04-19,Lucía,SSD 1TB,Almacenamiento,123.59,5
+2024-06-14,Daniela,Cable HDMI,Accesorios,12.43,2
+2024-04-25,Sofía,Cargador USB-C,Accesorios,24.89,2
+2024-03-08,Diego,SSD 1TB,Almacenamiento,131.17,4
+2024-01-19,Camila,Pad Mouse,Periféricos,10.16,3
+2024-05-02,Marcos,Mouse,Periféricos,21.55,2
+2024-02-10,Valentina,Auriculares,Audio,43.32,2
+2024-03-23,Federico,Parlante BT,Audio,71.28,3
+2024-03-09,Sofía,"Monitor 24""",Pantallas,187.94,2
+2024-04-20,Lucía,"Monitor 27""",Pantallas,250.91,2
+2024-01-16,Jorge,"Notebook 14""",Computadoras,916.81,3
+2024-04-21,Paula,Auriculares,Audio,42.0,3
+2024-02-21,Ana,Cargador USB-C,Accesorios,26.74,3
+2024-01-05,Pedro,Pad Mouse,Periféricos,10.24,1
+2024-01-03,Rocío,Auriculares,Audio,40.92,3
+2024-06-26,Lucía,"Notebook 14""",Computadoras,978.26,1
+2024-03-31,Rocío,"Notebook 15""",Computadoras,1224.61,3
+2024-01-23,Marcos,Hub USB-C,Accesorios,34.08,2
+2024-05-30,Federico,SSD 1TB,Almacenamiento,137.88,2
+2024-05-07,Nicolás,"Notebook 14""",Computadoras,905.47,1
+2024-03-26,Jorge,Cable HDMI,Accesorios,12.2,1
+2024-06-28,Valentina,Disco 2TB,Almacenamiento,119.63,2
+2024-05-02,Diego,Teclado,Periféricos,54.1,3
+2024-05-02,Ana,SSD 1TB,Almacenamiento,136.81,4
+2024-01-30,Florencia,"Notebook 15""",Computadoras,1032.75,4
+2024-03-17,Valentina,Teclado,Periféricos,45.69,1
+2024-02-16,Daniela,Mouse,Periféricos,25.25,3
+2024-06-05,Agustín,"Notebook 14""",Computadoras,941.03,2
+2024-05-10,Agustín,"Notebook 14""",Computadoras,911.87,3
+2024-03-22,Marcos,"Notebook 15""",Computadoras,1038.99,2
+2024-02-09,Jorge,Webcam,Periféricos,67.72,4
+2024-03-30,Hernán,"Monitor 27""",Pantallas,268.91,2
+2024-03-17,Luis,Disco 2TB,Almacenamiento,86.63,1
+2024-03-23,Agustín,Webcam,Periféricos,78.91,3
+2024-01-09,Ana,Cargador USB-C,Accesorios,27.75,1
+2024-02-23,Valentina,"Notebook 14""",Computadoras,886.68,2
+2024-01-23,Paula,Disco 2TB,Almacenamiento,102.64,3
+2024-01-22,Federico,Parlante BT,Audio,64.66,3
+2024-03-15,Diego,"Monitor 24""",Pantallas,195.62,2
+2024-03-15,Agustín,"Monitor 27""",Pantallas,290.48,1
+2024-03-30,Florencia,Cargador USB-C,Accesorios,30.23,3
+2024-03-12,Camila,"Notebook 15""",Computadoras,1082.3,1
+2024-04-21,Sofía,Pad Mouse,Periféricos,8.62,4
+2024-04-25,Valentina,Teclado,Periféricos,51.96,2
+2024-06-12,Daniela,Webcam,Periféricos,73.2,1
+2024-02-07,Marcos,Pad Mouse,Periféricos,8.55,1
+2024-03-01,Agustín,Mouse,Periféricos,25.81,3
+2024-06-24,Lucía,SSD 1TB,Almacenamiento,130.75,1
+2024-04-28,Lucía,"Notebook 15""",Computadoras,1101.06,4
+2024-06-30,Paula,SSD 512GB,Almacenamiento,82.45,2
+2024-02-17,Camila,"Notebook 14""",Computadoras,928.1,4
+2024-01-25,Diego,"Notebook 15""",Computadoras,1167.13,2
+2024-01-07,Nicolás,Teclado,Periféricos,39.3,2
+2024-01-01,Daniela,Parlante BT,Audio,63.78,2
+2024-02-02,Diego,Mouse,Periféricos,31.31,2
+2024-03-10,Daniela,"Monitor 24""",Pantallas,188.22,3
+2024-05-23,Hernán,Teclado,Periféricos,48.93,2
+2024-03-09,Federico,"Notebook 15""",Computadoras,1169.68,1
+2024-04-01,Paula,Parlante BT,Audio,65.35,2
+2024-04-24,Pedro,Webcam,Periféricos,58.98,1
+2024-02-25,Jorge,SSD 512GB,Almacenamiento,87.54,3
+2024-01-18,Paula,Cable HDMI,Accesorios,9.61,2
+2024-04-15,Pedro,SSD 512GB,Almacenamiento,87.57,2
+2024-02-13,Sofía,Mouse,Periféricos,25.61,2
+2024-06-08,Daniela,SSD 512GB,Almacenamiento,81.31,1
+2024-06-23,Sofía,SSD 512GB,Almacenamiento,78.44,3
+2024-05-24,Luis,Auriculares,Audio,23.58,1
+2024-01-13,Nicolás,"Notebook 14""",Computadoras,867.94,1
+2024-05-09,Jorge,Pad Mouse,Periféricos,11.49,1
+2024-06-30,Diego,Pad Mouse,Periféricos,10.79,2
+2024-06-12,Daniela,Mouse,Periféricos,26.07,1
+2024-02-29,Pedro,Hub USB-C,Accesorios,32.2,2
+2024-04-21,Paula,Disco 2TB,Almacenamiento,117.28,3
+2024-05-04,Paula,Cargador USB-C,Accesorios,25.37,2
+2024-02-01,Federico,Auriculares,Audio,38.11,3
+2024-03-04,Luis,"Monitor 24""",Pantallas,182.89,1
+2024-02-10,Camila,Auriculares,Audio,46.86,2
+2024-04-21,Agustín,"Monitor 24""",Pantallas,178.8,2
+2024-05-13,Ana,Auriculares,Audio,39.58,3
+2024-06-11,Lucía,"Monitor 27""",Pantallas,249.0,1
+2024-04-16,Camila,"Notebook 15""",Computadoras,1098.61,3
+2024-06-11,Pedro,Teclado,Periféricos,53.4,2
+2024-01-28,Federico,"Notebook 15""",Computadoras,1025.79,2
+2024-03-23,Sofía,Mouse,Periféricos,19.1,1
+2024-03-17,Luis,"Notebook 15""",Computadoras,1069.62,2
+2024-04-01,Valentina,Cable HDMI,Accesorios,11.96,3
+2024-01-15,Hernán,SSD 512GB,Almacenamiento,85.28,1
+2024-04-02,Paula,Webcam,Periféricos,62.54,2
+2024-05-19,Agustín,Cargador USB-C,Accesorios,24.95,2
+2024-04-20,Camila,"Monitor 24""",Pantallas,184.9,1
+2024-05-21,Sofía,Disco 2TB,Almacenamiento,90.93,2
+2024-06-09,Ana,"Monitor 27""",Pantallas,279.6,1
+2024-05-06,Lucía,Webcam,Periféricos,83.06,1
+2024-05-24,Jorge,Auriculares,Audio,45.59,2
+2024-06-06,Diego,Pad Mouse,Periféricos,7.95,1
+2024-06-02,Marta,SSD 1TB,Almacenamiento,140.84,2
+2024-05-10,Luis,Disco 2TB,Almacenamiento,107.97,2
+2024-06-15,Marcos,Parlante BT,Audio,58.55,3
+2024-06-06,Rocío,Parlante BT,Audio,70.37,1
+2024-04-24,Marta,Auriculares,Audio,41.03,1
+2024-01-03,Luis,Teclado,Periféricos,50.18,1
+2024-04-30,Paula,Cable HDMI,Accesorios,13.21,2
+2024-03-17,Federico,Teclado,Periféricos,45.41,1
+2024-03-31,Florencia,"Notebook 14""",Computadoras,925.64,2
+2024-03-04,Daniela,Webcam,Periféricos,74.46,4
+2024-05-28,Jorge,Auriculares,Audio,44.43,2
+2024-06-17,Valentina,Hub USB-C,Accesorios,35.37,1
+2024-03-27,Marta,"Notebook 14""",Computadoras,916.21,2
+2024-06-06,Rocío,Webcam,Periféricos,63.14,2
+2024-01-23,Paula,Teclado,Periféricos,43.46,3
+2024-03-28,Hernán,Teclado,Periféricos,47.95,3
+2024-05-07,Valentina,Teclado,Periféricos,50.8,3
+2024-05-17,Marta,Cargador USB-C,Accesorios,25.66,1
+2024-06-08,Jorge,"Monitor 24""",Pantallas,208.89,3
+2024-06-22,Marcos,"Monitor 24""",Pantallas,208.2,1
+2024-04-17,Camila,Hub USB-C,Accesorios,36.76,2
+2024-01-21,Valentina,Pad Mouse,Periféricos,9.53,5
+2024-04-23,Luis,Cargador USB-C,Accesorios,26.69,2
+2024-02-02,Jorge,Cargador USB-C,Accesorios,28.8,1
+2024-03-16,Agustín,"Monitor 27""",Pantallas,250.4,1
+2024-03-23,Ana,Auriculares,Audio,46.49,2
+2024-05-12,Carlos,Teclado,Periféricos,53.12,2
+2024-01-23,Diego,Cargador USB-C,Accesorios,27.52,3
+2024-03-06,Pedro,Mouse,Periféricos,21.61,2
+2024-05-24,Hernán,Mouse,Periféricos,22.78,1
+2024-06-09,Marta,"Notebook 14""",Computadoras,870.14,4
+2024-04-07,Lucía,Cable HDMI,Accesorios,12.33,4
+2024-04-23,Valentina,"Notebook 14""",Computadoras,969.25,1
+2024-02-05,Nicolás,Parlante BT,Audio,68.3,2
+2024-03-08,Marta,Pad Mouse,Periféricos,10.24,1
+2024-03-17,Luis,"Notebook 15""",Computadoras,1204.94,4
+2024-05-04,Camila,SSD 512GB,Almacenamiento,70.76,2
+2024-02-21,Paula,Teclado,Periféricos,47.42,3
+2024-03-06,Marta,Parlante BT,Audio,63.95,3
+2024-06-30,Ana,Webcam,Periféricos,59.4,2
+2024-05-23,Sofía,SSD 512GB,Almacenamiento,75.57,6
+2024-06-06,Camila,Cable HDMI,Accesorios,11.51,4
+2024-03-26,Rocío,"Notebook 14""",Computadoras,920.17,1
+2024-03-08,Carlos,SSD 1TB,Almacenamiento,142.8,3
+2024-03-01,Agustín,Pad Mouse,Periféricos,11.55,2
+2024-04-22,Marta,Disco 2TB,Almacenamiento,93.62,2
+2024-04-20,Federico,Cable HDMI,Accesorios,12.46,1
+2024-02-20,Marcos,Disco 2TB,Almacenamiento,89.56,2
+2024-06-27,Daniela,Hub USB-C,Accesorios,36.98,1
+2024-03-14,Sofía,Teclado,Periféricos,53.67,2
+2024-04-22,Pedro,Parlante BT,Audio,80.12,2
+2024-04-12,Sofía,Teclado,Periféricos,57.67,1
+2024-05-26,Paula,Cargador USB-C,Accesorios,31.23,2
+2024-05-13,Diego,Cable HDMI,Accesorios,11.46,1
+2024-04-02,Sofía,Disco 2TB,Almacenamiento,107.21,3
+2024-03-11,Camila,Auriculares,Audio,35.93,2
+2024-03-10,Pedro,Cargador USB-C,Accesorios,25.09,2
+2024-04-27,Daniela,Teclado,Periféricos,55.7,2
+2024-01-11,Paula,Cable HDMI,Accesorios,10.43,2
+2024-02-02,Luis,Mouse,Periféricos,24.44,2
+2024-01-01,Marcos,SSD 512GB,Almacenamiento,83.99,1
+2024-02-03,Ana,"Monitor 27""",Pantallas,263.45,5
+2024-01-26,Agustín,Teclado,Periféricos,51.25,2
+2024-01-12,Paula,"Monitor 27""",Pantallas,265.16,2
+2024-04-18,Daniela,SSD 1TB,Almacenamiento,131.36,3
+2024-02-28,Federico,Webcam,Periféricos,71.59,2
+2024-05-28,Florencia,Parlante BT,Audio,56.7,2
+2024-04-05,Ana,Pad Mouse,Periféricos,13.03,3
+2024-03-21,Hernán,Cargador USB-C,Accesorios,29.15,2
+2024-03-06,Daniela,Pad Mouse,Periféricos,7.09,2
+2024-05-10,Carlos,Cargador USB-C,Accesorios,25.54,5
+2024-06-12,Agustín,"Monitor 27""",Pantallas,277.76,1
+2024-06-16,Agustín,"Notebook 14""",Computadoras,889.68,1
+2024-01-08,Luis,"Monitor 27""",Pantallas,269.47,1
+2024-04-17,Florencia,Disco 2TB,Almacenamiento,93.04,2
+2024-05-27,Federico,"Monitor 27""",Pantallas,282.51,1
+2024-05-01,Carlos,Cable HDMI,Accesorios,11.89,1
+2024-01-29,Nicolás,Cable HDMI,Accesorios,12.79,3
+2024-05-16,Carlos,Cargador USB-C,Accesorios,34.77,2
+2024-01-09,Nicolás,SSD 512GB,Almacenamiento,83.59,1
+2024-03-01,Marta,Cargador USB-C,Accesorios,29.5,1
+2024-01-13,Ana,Teclado,Periféricos,49.38,3
+2024-02-06,Federico,Hub USB-C,Accesorios,38.1,4
+2024-05-09,Luis,Auriculares,Audio,52.81,1
+2024-01-05,Carlos,"Notebook 15""",Computadoras,955.66,1
+2024-02-13,Hernán,"Monitor 24""",Pantallas,209.92,6
+2024-03-29,Nicolás,SSD 512GB,Almacenamiento,84.37,4
+2024-05-05,Camila,Parlante BT,Audio,69.64,2
+2024-06-29,Lucía,Cable HDMI,Accesorios,9.29,1
+2024-05-28,Agustín,Cargador USB-C,Accesorios,27.71,4
+2024-06-26,Camila,Cable HDMI,Accesorios,13.48,2
+2024-01-17,Marta,Teclado,Periféricos,57.38,3
+2024-04-26,Lucía,Auriculares,Audio,38.71,2
+2024-05-13,Agustín,SSD 1TB,Almacenamiento,129.71,3
+2024-03-13,Valentina,SSD 1TB,Almacenamiento,125.74,4
+2024-02-10,Marta,Parlante BT,Audio,59.57,1
+2024-01-24,Sofía,Cargador USB-C,Accesorios,28.12,1
+2024-06-28,Pedro,Hub USB-C,Accesorios,38.27,4
+2024-02-21,Marta,"Notebook 14""",Computadoras,952.99,3
+2024-06-06,Rocío,"Monitor 24""",Pantallas,186.18,2
+2024-01-18,Jorge,Teclado,Periféricos,45.2,2
+2024-03-27,Federico,"Monitor 24""",Pantallas,194.03,3
+2024-01-25,Nicolás,"Monitor 24""",Pantallas,208.69,5
+2024-04-24,Agustín,Teclado,Periféricos,53.41,2
+2024-05-31,Paula,Parlante BT,Audio,73.02,3
+2024-04-28,Diego,Teclado,Periféricos,55.45,2
+2024-05-14,Nicolás,Cable HDMI,Accesorios,15.15,2
+2024-02-07,Diego,Webcam,Periféricos,55.83,6
+2024-04-16,Daniela,Auriculares,Audio,42.12,2
+2024-05-21,Hernán,Parlante BT,Audio,71.25,3
+2024-05-02,Florencia,Hub USB-C,Accesorios,35.8,3
+2024-06-30,Diego,Cargador USB-C,Accesorios,26.21,3
+2024-05-10,Hernán,Pad Mouse,Periféricos,10.23,2
+2024-03-02,Diego,Pad Mouse,Periféricos,7.22,2
+2024-05-21,Pedro,Teclado,Periféricos,51.49,2
+2024-03-20,Federico,SSD 512GB,Almacenamiento,83.61,6
+2024-03-28,Hernán,Disco 2TB,Almacenamiento,96.98,5
+2024-01-14,Paula,"Monitor 27""",Pantallas,274.4,2
+2024-02-13,Marcos,Disco 2TB,Almacenamiento,72.92,2
+2024-02-14,Agustín,"Notebook 15""",Computadoras,1113.04,4
+2024-01-29,Nicolás,Webcam,Periféricos,73.2,1
+2024-03-17,Pedro,Hub USB-C,Accesorios,34.36,2
+2024-04-10,Rocío,"Notebook 15""",Computadoras,1053.18,1
+2024-05-01,Florencia,SSD 512GB,Almacenamiento,83.18,1
+2024-06-16,Florencia,"Monitor 24""",Pantallas,193.47,3
+2024-06-10,Jorge,"Monitor 24""",Pantallas,200.21,1
+2024-01-03,Rocío,"Notebook 15""",Computadoras,1107.17,2
+2024-06-30,Camila,Webcam,Periféricos,71.43,3
+2024-02-29,Sofía,SSD 512GB,Almacenamiento,83.69,2
+2024-03-25,Marta,SSD 1TB,Almacenamiento,128.96,2
+2024-02-17,Florencia,Cargador USB-C,Accesorios,30.68,2
+2024-04-08,Diego,Hub USB-C,Accesorios,38.97,2
+2024-02-06,Florencia,"Notebook 15""",Computadoras,1092.66,2
+2024-01-08,Paula,Auriculares,Audio,49.75,4
+2024-06-25,Hernán,Teclado,Periféricos,48.55,2
+2024-02-11,Ana,Disco 2TB,Almacenamiento,91.69,4
+2024-01-30,Pedro,Parlante BT,Audio,61.65,3
+2024-02-21,Luis,"Monitor 24""",Pantallas,205.84,1
+2024-05-22,Marcos,Pad Mouse,Periféricos,10.64,3
+2024-01-15,Valentina,"Notebook 14""",Computadoras,967.26,1
+2024-03-03,Pedro,Parlante BT,Audio,57.63,2
+2024-04-14,Valentina,"Monitor 24""",Pantallas,210.82,2
+2024-06-18,Florencia,Parlante BT,Audio,67.77,2
+2024-03-20,Camila,Cable HDMI,Accesorios,10.31,1
+2024-05-28,Marta,"Monitor 27""",Pantallas,256.35,1
+2024-03-22,Florencia,Disco 2TB,Almacenamiento,87.22,1
+2024-03-22,Lucía,"Notebook 15""",Computadoras,1149.4,3
+2024-02-18,Luis,Disco 2TB,Almacenamiento,96.41,4
+2024-06-04,Federico,Hub USB-C,Accesorios,36.01,1
+2024-01-04,Agustín,Parlante BT,Audio,78.9,1
+2024-03-15,Ana,"Notebook 14""",Computadoras,943.51,2
+2024-04-27,Jorge,Cable HDMI,Accesorios,14.2,4
+2024-05-02,Lucía,SSD 1TB,Almacenamiento,129.84,1
+2024-03-14,Diego,"Monitor 24""",Pantallas,197.13,3
+2024-03-12,Jorge,"Notebook 15""",Computadoras,1149.65,4
+2024-05-08,Nicolás,Pad Mouse,Periféricos,10.45,5
+2024-06-02,Carlos,Pad Mouse,Periféricos,11.9,2
+2024-04-20,Sofía,Teclado,Periféricos,51.99,4
+2024-03-23,Federico,Parlante BT,Audio,62.82,3
+2024-01-24,Paula,"Notebook 14""",Computadoras,834.39,1
+2024-04-07,Florencia,"Notebook 14""",Computadoras,878.09,3
+2024-05-19,Pedro,Pad Mouse,Periféricos,12.02,3
+2024-01-25,Diego,"Notebook 14""",Computadoras,927.39,2
+2024-04-28,Ana,SSD 512GB,Almacenamiento,83.48,3
+2024-06-29,Nicolás,Webcam,Periféricos,69.19,3
+2024-06-14,Luis,Webcam,Periféricos,73.21,1
+2024-01-28,Agustín,Parlante BT,Audio,56.44,1
+2024-06-23,Rocío,"Notebook 15""",Computadoras,1025.22,1
+2024-01-31,Daniela,SSD 1TB,Almacenamiento,129.9,1
+2024-06-04,Carlos,SSD 512GB,Almacenamiento,77.94,6
+2024-01-04,Hernán,"Monitor 27""",Pantallas,242.1,2
+2024-02-08,Sofía,Mouse,Periféricos,24.0,2
+2024-06-04,Hernán,Pad Mouse,Periféricos,7.83,4
+2024-03-16,Paula,Disco 2TB,Almacenamiento,107.41,2
+2024-04-17,Carlos,SSD 1TB,Almacenamiento,131.06,3
+2024-04-16,Lucía,"Monitor 24""",Pantallas,211.34,2
+2024-04-26,Agustín,SSD 512GB,Almacenamiento,84.14,3
+2024-02-13,Camila,"Notebook 15""",Computadoras,1135.14,2
+2024-05-28,Jorge,Cargador USB-C,Accesorios,28.94,5
+2024-06-25,Florencia,Auriculares,Audio,35.98,2
+2024-03-14,Marta,SSD 1TB,Almacenamiento,120.05,1
+2024-01-20,Nicolás,"Monitor 27""",Pantallas,263.12,2
+2024-01-08,Rocío,"Monitor 27""",Pantallas,259.26,2
+2024-02-04,Luis,SSD 512GB,Almacenamiento,69.33,1
+2024-04-24,Federico,Teclado,Periféricos,40.46,1
+2024-02-21,Federico,"Notebook 14""",Computadoras,895.25,4
+2024-03-18,Florencia,"Notebook 15""",Computadoras,1180.32,3
+2024-04-11,Ana,SSD 1TB,Almacenamiento,121.02,2
+2024-01-21,Hernán,Cable HDMI,Accesorios,11.15,2
+2024-04-25,Daniela,Parlante BT,Audio,68.52,2
+2024-02-15,Valentina,"Monitor 24""",Pantallas,193.78,4
+2024-03-26,Agustín,Mouse,Periféricos,26.98,1
+2024-03-30,Marta,Pad Mouse,Periféricos,9.8,1
+2024-06-22,Florencia,Auriculares,Audio,35.42,1
+2024-02-21,Carlos,"Monitor 24""",Pantallas,215.51,2
+2024-01-29,Jorge,Hub USB-C,Accesorios,31.37,3
+2024-04-05,Marta,"Monitor 24""",Pantallas,234.14,3
+2024-06-28,Florencia,Hub USB-C,Accesorios,22.68,1
+2024-06-20,Carlos,Webcam,Periféricos,70.5,1
+2024-04-17,Ana,Cable HDMI,Accesorios,12.23,2
+2024-01-14,Agustín,Parlante BT,Audio,55.43,2
+2024-05-03,Carlos,Mouse,Periféricos,28.44,1
+2024-03-18,Luis,Pad Mouse,Periféricos,12.72,2
+2024-02-13,Marcos,Mouse,Periféricos,25.55,2
+2024-06-15,Diego,"Monitor 27""",Pantallas,255.63,1
+2024-03-10,Marcos,Hub USB-C,Accesorios,33.77,2
+2024-02-22,Federico,Cable HDMI,Accesorios,12.94,2
+2024-01-27,Federico,Hub USB-C,Accesorios,30.86,2
+2024-02-18,Agustín,Auriculares,Audio,47.22,2
+2024-04-09,Federico,Teclado,Periféricos,52.49,1
+2024-05-25,Florencia,Auriculares,Audio,37.72,1
+2024-06-18,Rocío,Mouse,Periféricos,22.49,1
+2024-02-06,Diego,Parlante BT,Audio,81.2,2
+2024-05-24,Carlos,SSD 1TB,Almacenamiento,128.44,1
+2024-04-28,Hernán,Teclado,Periféricos,59.77,2
+2024-06-22,Valentina,"Notebook 15""",Computadoras,1105.58,4
+2024-01-14,Rocío,Mouse,Periféricos,32.91,2
+2024-01-28,Valentina,Cable HDMI,Accesorios,10.25,2
+2024-06-23,Federico,Disco 2TB,Almacenamiento,113.09,1
+2024-03-15,Ana,Cargador USB-C,Accesorios,24.88,3
+2024-03-18,Sofía,"Monitor 27""",Pantallas,263.39,2
+2024-02-02,Pedro,Disco 2TB,Almacenamiento,100.95,2
+2024-05-13,Florencia,"Notebook 15""",Computadoras,1142.41,2
+2024-02-25,Pedro,"Notebook 15""",Computadoras,1079.88,1
+2024-02-25,Camila,Auriculares,Audio,31.91,2
+2024-01-09,Florencia,Webcam,Periféricos,65.59,3
+2024-05-09,Marta,Parlante BT,Audio,65.03,5
+2024-01-30,Ana,Disco 2TB,Almacenamiento,93.07,1
+2024-02-19,Florencia,Mouse,Periféricos,26.11,4
+2024-04-13,Valentina,"Monitor 24""",Pantallas,196.69,4
+2024-03-29,Camila,"Monitor 24""",Pantallas,203.08,1
+2024-02-06,Paula,Webcam,Periféricos,70.22,2
+2024-05-21,Sofía,Pad Mouse,Periféricos,13.63,1
+2024-01-23,Lucía,"Notebook 14""",Computadoras,867.99,3
+2024-02-07,Jorge,Teclado,Periféricos,48.54,3
+2024-01-08,Sofía,Parlante BT,Audio,51.9,2
+2024-06-22,Florencia,Cable HDMI,Accesorios,10.76,3
+2024-03-26,Florencia,Mouse,Periféricos,19.3,2
+2024-04-07,Valentina,Mouse,Periféricos,26.46,2
+2024-03-08,Marcos,Teclado,Periféricos,50.28,1
+2024-03-27,Jorge,Cargador USB-C,Accesorios,26.86,2
+2024-05-02,Agustín,SSD 1TB,Almacenamiento,127.75,3
+2024-06-14,Pedro,"Monitor 27""",Pantallas,259.54,2
+2024-03-08,Marta,"Notebook 15""",Computadoras,1022.34,1
+2024-01-20,Rocío,Mouse,Periféricos,27.22,1
+2024-04-09,Jorge,SSD 512GB,Almacenamiento,89.1,2
+2024-04-29,Daniela,Cable HDMI,Accesorios,13.41,3
+2024-05-03,Agustín,"Notebook 15""",Computadoras,1142.32,3
+2024-06-05,Diego,Webcam,Periféricos,73.39,1
+2024-05-11,Diego,SSD 1TB,Almacenamiento,114.38,2
+2024-01-17,Agustín,Hub USB-C,Accesorios,34.28,2
+2024-06-13,Sofía,Auriculares,Audio,45.55,3
+2024-02-28,Agustín,"Monitor 27""",Pantallas,267.47,1
+2024-06-09,Lucía,Hub USB-C,Accesorios,32.08,1
+2024-05-08,Marcos,SSD 1TB,Almacenamiento,118.27,1
+2024-06-03,Pedro,SSD 512GB,Almacenamiento,83.84,2
+2024-05-17,Daniela,Cable HDMI,Accesorios,13.78,2
+2024-03-27,Nicolás,SSD 1TB,Almacenamiento,122.16,4
+2024-04-21,Valentina,Cargador USB-C,Accesorios,28.21,2
+2024-01-26,Florencia,Teclado,Periféricos,51.84,1
+2024-04-15,Sofía,Mouse,Periféricos,19.8,2
+2024-03-21,Marcos,Webcam,Periféricos,76.26,2
+2024-05-28,Florencia,"Monitor 24""",Pantallas,218.89,2
+2024-06-20,Marcos,Mouse,Periféricos,24.56,2
+2024-01-26,Carlos,Auriculares,Audio,54.05,3
+2024-02-23,Hernán,Auriculares,Audio,44.83,3
+2024-03-02,Diego,Disco 2TB,Almacenamiento,82.27,2
+2024-05-22,Diego,"Monitor 24""",Pantallas,205.48,2
+2024-03-10,Luis,"Notebook 14""",Computadoras,921.09,1
+2024-05-20,Florencia,Cargador USB-C,Accesorios,27.49,2
+2024-06-05,Pedro,SSD 1TB,Almacenamiento,135.1,2
+2024-03-04,Federico,"Monitor 27""",Pantallas,268.54,2
+2024-04-06,Diego,"Notebook 15""",Computadoras,1139.42,1
+2024-03-27,Pedro,Cable HDMI,Accesorios,13.05,3
+2024-04-30,Hernán,Mouse,Periféricos,27.2,3
+2024-01-21,Federico,SSD 1TB,Almacenamiento,126.81,1
+2024-05-17,Hernán,Auriculares,Audio,39.34,4
+2024-05-07,Lucía,Pad Mouse,Periféricos,9.72,3
+2024-02-11,Hernán,Webcam,Periféricos,74.02,1
+2024-01-02,Nicolás,Pad Mouse,Periféricos,9.52,1
+2024-06-26,Sofía,Webcam,Periféricos,51.24,3
+2024-03-05,Daniela,SSD 1TB,Almacenamiento,138.5,2
+2024-02-24,Luis,"Monitor 27""",Pantallas,293.69,4
+2024-06-21,Daniela,"Monitor 27""",Pantallas,270.47,3
+2024-03-08,Carlos,"Notebook 14""",Computadoras,964.8,3
+2024-06-22,Camila,"Monitor 27""",Pantallas,282.24,3
+2024-04-13,Luis,"Monitor 24""",Pantallas,205.21,2
+2024-03-09,Hernán,SSD 1TB,Almacenamiento,120.69,2
+2024-01-02,Federico,Cargador USB-C,Accesorios,32.94,3
+2024-02-11,Nicolás,Parlante BT,Audio,69.06,2
+2024-02-16,Luis,SSD 512GB,Almacenamiento,87.34,3
+2024-05-25,Marta,"Notebook 14""",Computadoras,892.18,1
+2024-04-08,Marcos,Pad Mouse,Periféricos,10.85,3
+2024-03-05,Federico,Disco 2TB,Almacenamiento,96.03,2
+2024-03-02,Camila,Mouse,Periféricos,22.92,1
+2024-01-20,Hernán,"Notebook 14""",Computadoras,875.17,3
+2024-03-13,Federico,"Monitor 27""",Pantallas,248.42,2
+2024-02-03,Hernán,Disco 2TB,Almacenamiento,102.29,1
+2024-06-17,Camila,SSD 1TB,Almacenamiento,129.84,4
+2024-06-28,Daniela,Cargador USB-C,Accesorios,27.82,1
+2024-05-19,Rocío,Auriculares,Audio,48.15,2
+2024-06-22,Hernán,Webcam,Periféricos,74.22,2
+2024-04-21,Nicolás,Pad Mouse,Periféricos,10.17,2
+2024-04-19,Lucía,Mouse,Periféricos,31.61,5
+2024-04-08,Hernán,"Notebook 14""",Computadoras,900.48,3
+2024-02-04,Jorge,Webcam,Periféricos,75.82,1
+2024-06-30,Sofía,Pad Mouse,Periféricos,14.04,2
+2024-01-11,Camila,Teclado,Periféricos,48.71,3
+2024-06-04,Lucía,Hub USB-C,Accesorios,37.9,1
+2024-06-18,Agustín,Teclado,Periféricos,47.71,2
+2024-06-03,Daniela,Cargador USB-C,Accesorios,29.05,2
+2024-01-13,Daniela,"Monitor 24""",Pantallas,200.65,1
+2024-05-25,Diego,Pad Mouse,Periféricos,12.06,2
+2024-02-06,Paula,Auriculares,Audio,35.83,1
+2024-05-03,Lucía,Parlante BT,Audio,56.85,3
+2024-01-30,Pedro,Pad Mouse,Periféricos,8.09,1
+2024-04-13,Pedro,Parlante BT,Audio,58.59,1
+2024-01-15,Diego,Webcam,Periféricos,57.48,1
+2024-05-24,Luis,Pad Mouse,Periféricos,8.79,1
+2024-01-11,Marcos,Pad Mouse,Periféricos,10.93,2
+2024-03-12,Hernán,Disco 2TB,Almacenamiento,100.81,3
+2024-04-10,Rocío,Auriculares,Audio,31.1,6
+2024-06-05,Valentina,Mouse,Periféricos,27.9,3
+2024-04-23,Jorge,Cable HDMI,Accesorios,15.92,4
+2024-03-10,Rocío,Cargador USB-C,Accesorios,29.93,3
+2024-02-05,Daniela,Pad Mouse,Periféricos,8.88,2
+2024-04-05,Lucía,Hub USB-C,Accesorios,37.71,4
+2024-03-08,Rocío,Webcam,Periféricos,64.52,2
+2024-06-28,Diego,Pad Mouse,Periféricos,7.85,3
+2024-01-08,Rocío,"Notebook 14""",Computadoras,952.45,1
+2024-03-26,Sofía,SSD 512GB,Almacenamiento,85.76,3
+2024-04-27,Nicolás,Mouse,Periféricos,22.94,4
+2024-01-29,Lucía,Disco 2TB,Almacenamiento,88.9,1
+2024-05-12,Federico,Webcam,Periféricos,64.63,3
+2024-02-25,Marta,Auriculares,Audio,43.66,4
+2024-06-19,Jorge,Hub USB-C,Accesorios,38.14,2
+2024-02-20,Pedro,Teclado,Periféricos,51.29,1
+2024-04-13,Sofía,Cargador USB-C,Accesorios,27.34,1
+2024-03-13,Rocío,Parlante BT,Audio,67.62,2
+2024-01-08,Florencia,Teclado,Periféricos,46.02,1
+2024-01-25,Carlos,Cargador USB-C,Accesorios,29.6,2
+2024-02-29,Pedro,Auriculares,Audio,61.84,5
+2024-04-20,Paula,Hub USB-C,Accesorios,36.8,1
+2024-01-08,Camila,Parlante BT,Audio,88.71,3
+2024-03-03,Hernán,Hub USB-C,Accesorios,33.97,1
+2024-06-03,Lucía,Cargador USB-C,Accesorios,26.65,4
+2024-06-29,Federico,SSD 1TB,Almacenamiento,131.06,3
+2024-04-12,Diego,Teclado,Periféricos,45.52,1
+2024-06-18,Paula,Webcam,Periféricos,49.79,1
+2024-01-03,Marcos,Cargador USB-C,Accesorios,23.22,1
+2024-04-03,Lucía,Mouse,Periféricos,26.8,1
+2024-05-28,Valentina,Hub USB-C,Accesorios,35.43,1
+2024-02-23,Marcos,"Monitor 24""",Pantallas,192.1,3
+2024-01-29,Ana,Auriculares,Audio,41.86,2
+2024-05-13,Diego,Teclado,Periféricos,53.91,3
+2024-05-06,Hernán,Auriculares,Audio,46.51,1
+2024-05-12,Federico,"Monitor 24""",Pantallas,227.42,2
+2024-02-26,Agustín,Hub USB-C,Accesorios,36.7,2
+2024-06-30,Camila,Teclado,Periféricos,42.05,2
+2024-06-10,Pedro,Hub USB-C,Accesorios,33.82,2
+2024-02-13,Diego,"Notebook 14""",Computadoras,907.04,3
+2024-06-28,Marcos,Hub USB-C,Accesorios,35.91,2
+2024-04-29,Diego,SSD 1TB,Almacenamiento,131.71,2
+2024-06-01,Rocío,"Notebook 14""",Computadoras,878.36,2
+2024-05-28,Federico,"Monitor 24""",Pantallas,212.02,2
+2024-03-30,Paula,Cargador USB-C,Accesorios,22.01,4
+2024-04-16,Sofía,SSD 1TB,Almacenamiento,131.63,4
+2024-02-14,Florencia,Cargador USB-C,Accesorios,30.94,1
+2024-03-13,Marcos,"Notebook 15""",Computadoras,1160.87,4
+2024-01-16,Diego,SSD 1TB,Almacenamiento,148.92,2
+2024-02-14,Federico,Webcam,Periféricos,70.36,1
+2024-06-25,Marta,"Monitor 27""",Pantallas,213.77,2
+2024-03-22,Nicolás,Pad Mouse,Periféricos,9.7,5
+2024-03-18,Marta,"Monitor 24""",Pantallas,179.58,1
+2024-01-31,Hernán,Disco 2TB,Almacenamiento,107.88,2
+2024-03-22,Agustín,Parlante BT,Audio,72.7,1
+2024-01-10,Sofía,Disco 2TB,Almacenamiento,114.8,2
+2024-04-25,Ana,Mouse,Periféricos,28.28,3
+2024-04-01,Pedro,Cargador USB-C,Accesorios,23.77,3
+2024-02-26,Rocío,Hub USB-C,Accesorios,34.38,3
+2024-03-13,Carlos,Mouse,Periféricos,26.96,3
+2024-06-12,Marcos,"Monitor 27""",Pantallas,238.57,2
+2024-05-12,Camila,Mouse,Periféricos,20.66,1
+2024-03-26,Rocío,Parlante BT,Audio,75.6,1
+2024-03-05,Federico,Disco 2TB,Almacenamiento,98.09,5
+2024-06-18,Rocío,"Notebook 15""",Computadoras,1102.84,5
+2024-04-03,Rocío,Parlante BT,Audio,50.11,2
+2024-02-02,Sofía,Cargador USB-C,Accesorios,31.15,2
+2024-05-08,Nicolás,Auriculares,Audio,38.6,1
+2024-01-02,Jorge,"Notebook 15""",Computadoras,1132.36,2
+2024-06-23,Jorge,Parlante BT,Audio,56.55,2
+2024-03-02,Rocío,"Monitor 27""",Pantallas,266.05,1
+2024-01-18,Rocío,Pad Mouse,Periféricos,7.13,2
+2024-01-27,Luis,SSD 1TB,Almacenamiento,115.54,3
+2024-04-21,Lucía,Auriculares,Audio,32.52,3
+2024-01-30,Sofía,Mouse,Periféricos,17.82,1
+2024-05-20,Marcos,Disco 2TB,Almacenamiento,99.69,4
+2024-03-01,Camila,Disco 2TB,Almacenamiento,110.65,1
+2024-02-21,Federico,"Monitor 24""",Pantallas,193.86,1
+2024-01-08,Hernán,Auriculares,Audio,33.07,2
+2024-06-10,Carlos,Mouse,Periféricos,27.73,5
+2024-01-21,Florencia,"Notebook 15""",Computadoras,1088.3,3
+2024-01-19,Florencia,SSD 1TB,Almacenamiento,115.16,3
+2024-06-21,Camila,"Notebook 14""",Computadoras,854.92,2
+2024-01-03,Lucía,"Monitor 24""",Pantallas,213.8,5
+2024-02-09,Nicolás,Disco 2TB,Almacenamiento,91.92,2
+2024-04-29,Diego,Auriculares,Audio,37.39,3
+2024-06-13,Marcos,Pad Mouse,Periféricos,8.66,1
+2024-01-10,Paula,Teclado,Periféricos,47.48,3
+2024-06-29,Florencia,Mouse,Periféricos,26.77,3
+2024-05-10,Hernán,"Notebook 15""",Computadoras,1042.79,1
+2024-06-18,Agustín,Teclado,Periféricos,54.83,3
+2024-01-26,Hernán,"Notebook 14""",Computadoras,928.17,2
+2024-05-09,Florencia,"Notebook 14""",Computadoras,817.26,2
+2024-05-21,Nicolás,Disco 2TB,Almacenamiento,100.89,3
+2024-06-23,Diego,Cargador USB-C,Accesorios,30.94,3
+2024-02-19,Lucía,SSD 512GB,Almacenamiento,77.44,2
+2024-06-27,Nicolás,Cable HDMI,Accesorios,13.01,4
+2024-02-21,Diego,Auriculares,Audio,34.4,6
+2024-05-31,Daniela,Teclado,Periféricos,43.35,2
+2024-04-13,Marcos,Mouse,Periféricos,25.78,1
+2024-06-26,Federico,"Monitor 27""",Pantallas,235.0,1
+2024-04-09,Lucía,SSD 512GB,Almacenamiento,79.96,3
+2024-03-14,Paula,SSD 1TB,Almacenamiento,138.29,1
+2024-05-01,Hernán,Auriculares,Audio,46.02,2
+2024-01-26,Marcos,"Monitor 27""",Pantallas,256.1,1
+2024-01-03,Valentina,Mouse,Periféricos,24.35,2
+2024-05-13,Federico,SSD 512GB,Almacenamiento,90.97,3
+2024-03-12,Carlos,Pad Mouse,Periféricos,9.14,2
+2024-03-20,Daniela,SSD 512GB,Almacenamiento,71.68,5
+2024-05-09,Camila,"Monitor 24""",Pantallas,217.58,3
+2024-03-02,Diego,"Notebook 14""",Computadoras,930.14,1
+2024-05-19,Sofía,"Monitor 24""",Pantallas,201.78,3
+2024-01-08,Daniela,"Monitor 24""",Pantallas,217.32,2
+2024-04-22,Lucía,"Monitor 27""",Pantallas,271.13,2
+2024-04-29,Marcos,"Monitor 24""",Pantallas,197.71,3
+2024-05-02,Lucía,"Monitor 24""",Pantallas,219.18,1
+2024-06-13,Lucía,SSD 1TB,Almacenamiento,143.13,4
+2024-01-27,Pedro,Teclado,Periféricos,45.68,1
+2024-01-01,Marta,Mouse,Periféricos,23.85,1
+2024-01-30,Daniela,Auriculares,Audio,40.08,4
+2024-06-12,Florencia,Parlante BT,Audio,71.28,3
+2024-01-25,Daniela,SSD 1TB,Almacenamiento,124.02,5
+2024-06-12,Rocío,SSD 512GB,Almacenamiento,78.73,1
+2024-05-07,Daniela,"Notebook 14""",Computadoras,902.62,4
+2024-01-04,Daniela,Pad Mouse,Periféricos,11.44,6
+2024-06-20,Hernán,"Notebook 14""",Computadoras,847.57,2
+2024-05-09,Federico,"Monitor 27""",Pantallas,274.86,1
+2024-04-15,Diego,Webcam,Periféricos,68.64,2
+2024-01-13,Luis,Hub USB-C,Accesorios,34.03,5
+2024-03-03,Daniela,Parlante BT,Audio,68.7,1
+2024-03-05,Hernán,SSD 1TB,Almacenamiento,144.28,5
+2024-04-28,Federico,Pad Mouse,Periféricos,10.33,1
+2024-04-10,Nicolás,Teclado,Periféricos,54.52,5
+2024-03-17,Hernán,Cable HDMI,Accesorios,9.3,2
+2024-01-18,Agustín,Auriculares,Audio,44.17,1
+2024-01-25,Ana,"Monitor 24""",Pantallas,222.2,3
+2024-06-06,Federico,Teclado,Periféricos,58.2,3
+2024-03-20,Agustín,SSD 1TB,Almacenamiento,113.98,2
+2024-06-15,Rocío,"Notebook 14""",Computadoras,876.84,2
+2024-01-18,Sofía,"Notebook 14""",Computadoras,864.15,5
+2024-01-26,Lucía,"Notebook 14""",Computadoras,897.65,1
+2024-05-01,Daniela,SSD 512GB,Almacenamiento,78.53,4
+2024-05-23,Camila,Pad Mouse,Periféricos,6.9,1
+2024-06-14,Daniela,Hub USB-C,Accesorios,38.8,3
+2024-03-18,Jorge,Hub USB-C,Accesorios,34.08,1
+2024-04-23,Camila,SSD 1TB,Almacenamiento,126.99,2
+2024-04-22,Federico,"Notebook 14""",Computadoras,963.72,2
+2024-06-04,Nicolás,Pad Mouse,Periféricos,12.44,4
+2024-06-09,Diego,Webcam,Periféricos,68.54,1
+2024-01-30,Diego,"Monitor 27""",Pantallas,254.67,2
+2024-02-14,Marta,"Notebook 14""",Computadoras,858.7,1
+2024-01-24,Lucía,Hub USB-C,Accesorios,37.02,2
+2024-03-19,Federico,"Monitor 24""",Pantallas,185.8,3
+2024-04-03,Pedro,Webcam,Periféricos,68.59,2
+2024-03-24,Daniela,Auriculares,Audio,38.22,2
+2024-05-30,Sofía,Hub USB-C,Accesorios,39.64,2
+2024-03-22,Daniela,Webcam,Periféricos,65.97,2
+2024-06-04,Hernán,SSD 512GB,Almacenamiento,98.09,3
+2024-06-22,Daniela,"Notebook 15""",Computadoras,1095.55,1
+2024-02-04,Marcos,Parlante BT,Audio,59.26,2
+2024-05-06,Federico,Teclado,Periféricos,42.92,2
+2024-06-15,Sofía,Parlante BT,Audio,75.84,3
+2024-06-23,Jorge,"Notebook 14""",Computadoras,891.7,2
+2024-01-29,Daniela,Teclado,Periféricos,56.61,3
+2024-02-19,Nicolás,SSD 512GB,Almacenamiento,69.5,3
+2024-01-14,Marcos,SSD 1TB,Almacenamiento,126.61,3
+2024-04-11,Camila,"Notebook 14""",Computadoras,950.2,5
+2024-01-11,Camila,Auriculares,Audio,44.58,2
+2024-02-25,Paula,Teclado,Periféricos,48.15,1
+2024-06-02,Camila,"Monitor 24""",Pantallas,196.8,4
+2024-05-23,Diego,Pad Mouse,Periféricos,12.18,1
+2024-06-03,Valentina,SSD 1TB,Almacenamiento,139.76,4
+2024-04-16,Agustín,Cargador USB-C,Accesorios,30.82,4
+2024-06-22,Nicolás,Mouse,Periféricos,22.53,3
+2024-05-04,Federico,"Notebook 15""",Computadoras,1145.49,2
+2024-02-03,Nicolás,Webcam,Periféricos,69.4,2
+2024-02-23,Sofía,SSD 512GB,Almacenamiento,66.85,1
+2024-02-22,Paula,Disco 2TB,Almacenamiento,102.88,3
+2024-01-16,Carlos,Mouse,Periféricos,28.74,5
+2024-01-14,Sofía,SSD 512GB,Almacenamiento,85.37,2
+2024-06-10,Lucía,SSD 512GB,Almacenamiento,75.57,4
+2024-01-15,Agustín,"Notebook 15""",Computadoras,1095.66,3
+2024-03-21,Marcos,Disco 2TB,Almacenamiento,114.92,1
+2024-02-09,Marcos,Cable HDMI,Accesorios,11.36,2
+2024-04-17,Camila,Cable HDMI,Accesorios,12.39,2
+2024-01-17,Paula,Pad Mouse,Periféricos,10.52,2
+2024-04-25,Sofía,Auriculares,Audio,38.27,2
+2024-05-27,Pedro,"Monitor 27""",Pantallas,301.11,1
+2024-06-28,Marcos,Mouse,Periféricos,31.56,3
+2024-03-27,Jorge,Pad Mouse,Periféricos,10.78,1
+2024-04-30,Federico,Teclado,Periféricos,51.19,1
+2024-06-16,Marta,Mouse,Periféricos,22.2,1
+2024-01-02,Daniela,Parlante BT,Audio,68.83,2
+2024-01-13,Ana,Disco 2TB,Almacenamiento,97.05,1
+2024-02-25,Hernán,Mouse,Periféricos,30.46,2
+2024-06-17,Marta,"Notebook 14""",Computadoras,936.32,2
+2024-01-04,Rocío,Webcam,Periféricos,77.42,2
+2024-01-07,Carlos,Disco 2TB,Almacenamiento,104.26,1
+2024-06-30,Valentina,"Monitor 27""",Pantallas,249.44,6
+2024-02-22,Lucía,"Notebook 15""",Computadoras,1090.4,2
+2024-03-12,Nicolás,Webcam,Periféricos,58.89,2
+2024-04-08,Pedro,Pad Mouse,Periféricos,10.44,3
+2024-02-17,Ana,Parlante BT,Audio,60.63,3
+2024-01-08,Camila,SSD 512GB,Almacenamiento,80.14,2
+2024-04-03,Daniela,Cable HDMI,Accesorios,11.45,4
+2024-04-17,Florencia,"Notebook 14""",Computadoras,960.08,1
+2024-04-27,Florencia,Cable HDMI,Accesorios,11.89,3
+2024-04-14,Pedro,Pad Mouse,Periféricos,13.76,1
+2024-05-28,Diego,Cable HDMI,Accesorios,11.65,4
+2024-04-24,Diego,Hub USB-C,Accesorios,36.24,3
+2024-02-20,Hernán,"Notebook 15""",Computadoras,1054.58,1
+2024-05-18,Camila,Cargador USB-C,Accesorios,26.73,3
+2024-06-28,Florencia,"Monitor 27""",Pantallas,263.05,4
+2024-06-09,Carlos,Cable HDMI,Accesorios,10.68,2
+2024-04-15,Valentina,SSD 1TB,Almacenamiento,145.09,2
+2024-04-17,Paula,"Notebook 14""",Computadoras,915.97,2
+2024-03-12,Pedro,"Notebook 15""",Computadoras,1095.87,4
+2024-03-05,Ana,Auriculares,Audio,47.57,1
+2024-05-14,Hernán,Webcam,Periféricos,60.27,2
+2024-01-06,Camila,"Notebook 15""",Computadoras,1111.76,2
+2024-06-13,Daniela,Auriculares,Audio,38.66,5
+2024-06-06,Daniela,Cargador USB-C,Accesorios,29.3,3
+2024-04-09,Valentina,Auriculares,Audio,40.95,3
+2024-04-10,Paula,"Notebook 15""",Computadoras,1003.57,2
+2024-04-03,Rocío,"Monitor 27""",Pantallas,240.71,2
+2024-06-03,Ana,SSD 1TB,Almacenamiento,113.49,1
+2024-04-25,Jorge,Hub USB-C,Accesorios,35.41,4
+2024-01-26,Florencia,Hub USB-C,Accesorios,33.2,2
+2024-03-12,Federico,"Monitor 27""",Pantallas,245.19,2
+2024-01-11,Sofía,Disco 2TB,Almacenamiento,98.4,4
+2024-02-22,Federico,"Monitor 27""",Pantallas,252.92,4
+2024-03-06,Marcos,Mouse,Periféricos,24.56,2
+2024-02-20,Paula,"Monitor 27""",Pantallas,264.66,3
+2024-02-17,Hernán,"Notebook 14""",Computadoras,892.77,1
+2024-02-09,Valentina,"Notebook 14""",Computadoras,827.51,1
+2024-02-02,Paula,"Monitor 24""",Pantallas,235.07,1
+2024-02-23,Carlos,Pad Mouse,Periféricos,8.94,4
+2024-06-08,Pedro,"Notebook 15""",Computadoras,1138.86,2
+2024-05-25,Marta,Cable HDMI,Accesorios,12.84,1
+2024-05-09,Rocío,Cable HDMI,Accesorios,14.22,1
+2024-04-17,Marcos,Cargador USB-C,Accesorios,26.16,2
+2024-06-06,Jorge,SSD 512GB,Almacenamiento,85.26,4
+2024-06-12,Ana,Webcam,Periféricos,69.06,3
+2024-03-06,Luis,Auriculares,Audio,45.85,2
+2024-05-02,Sofía,Teclado,Periféricos,49.12,2
+2024-04-27,Valentina,"Notebook 14""",Computadoras,963.01,2
+2024-01-07,Pedro,Cable HDMI,Accesorios,11.37,3
+2024-04-06,Ana,"Monitor 27""",Pantallas,278.69,2
+2024-04-17,Carlos,Webcam,Periféricos,69.99,1
+2024-06-05,Ana,Cargador USB-C,Accesorios,28.37,1
+2024-04-24,Jorge,SSD 512GB,Almacenamiento,84.55,2
+2024-06-19,Paula,"Notebook 15""",Computadoras,1132.72,2
+2024-05-05,Daniela,SSD 1TB,Almacenamiento,126.4,2
+2024-04-26,Nicolás,Parlante BT,Audio,58.24,3
+2024-03-14,Agustín,Mouse,Periféricos,21.67,2
+2024-02-07,Pedro,Parlante BT,Audio,51.11,2
+2024-06-10,Marcos,Disco 2TB,Almacenamiento,112.04,2
+2024-02-09,Carlos,Cargador USB-C,Accesorios,26.94,1
+2024-06-23,Sofía,"Monitor 24""",Pantallas,208.14,1
+2024-03-08,Marcos,Disco 2TB,Almacenamiento,100.85,4
+2024-06-12,Ana,Teclado,Periféricos,43.39,2
+2024-04-03,Lucía,Disco 2TB,Almacenamiento,102.51,1
+2024-02-07,Nicolás,"Monitor 27""",Pantallas,280.82,3
+2024-05-02,Luis,"Monitor 24""",Pantallas,189.61,1
+2024-06-01,Nicolás,Teclado,Periféricos,56.22,2
+2024-02-05,Hernán,"Monitor 24""",Pantallas,211.37,2
+2024-02-28,Daniela,Disco 2TB,Almacenamiento,109.14,2
+2024-06-17,Valentina,SSD 512GB,Almacenamiento,73.42,1
+2024-03-26,Sofía,Parlante BT,Audio,63.55,1
+2024-06-05,Florencia,Teclado,Periféricos,56.69,2
+2024-06-13,Marcos,Cargador USB-C,Accesorios,29.21,2
+2024-04-20,Valentina,"Monitor 24""",Pantallas,200.32,1
+2024-04-05,Camila,Parlante BT,Audio,65.96,4
+2024-02-20,Jorge,Teclado,Periféricos,57.14,3
+2024-01-19,Lucía,Hub USB-C,Accesorios,27.61,1
+2024-06-27,Agustín,Auriculares,Audio,38.7,1
+2024-06-19,Sofía,"Notebook 14""",Computadoras,907.62,1
+2024-05-15,Diego,Teclado,Periféricos,46.27,3
+2024-02-11,Federico,"Monitor 27""",Pantallas,286.28,2
+2024-04-07,Ana,Parlante BT,Audio,71.24,2
+2024-02-28,Diego,Cargador USB-C,Accesorios,26.3,1
+2024-05-30,Rocío,Webcam,Periféricos,74.33,1
+2024-03-13,Camila,Mouse,Periféricos,19.93,3
+2024-02-24,Lucía,Pad Mouse,Periféricos,6.32,2
+2024-06-21,Daniela,Mouse,Periféricos,31.67,3
+2024-06-04,Rocío,SSD 512GB,Almacenamiento,74.78,1
+2024-01-28,Luis,Parlante BT,Audio,81.45,3
+2024-04-08,Camila,Webcam,Periféricos,72.52,2
+2024-01-30,Florencia,Teclado,Periféricos,50.64,2
+2024-05-25,Pedro,Cargador USB-C,Accesorios,26.42,2
+2024-06-14,Lucía,SSD 512GB,Almacenamiento,76.51,2
+2024-05-28,Florencia,SSD 1TB,Almacenamiento,122.41,2
+2024-02-24,Nicolás,"Monitor 24""",Pantallas,173.2,3
+2024-01-27,Ana,Disco 2TB,Almacenamiento,86.76,2
+2024-04-05,Camila,Webcam,Periféricos,70.91,3
+2024-01-22,Marcos,Parlante BT,Audio,65.05,4
+2024-05-15,Daniela,Cable HDMI,Accesorios,11.01,3
+2024-03-24,Florencia,"Notebook 15""",Computadoras,1055.46,1
+2024-06-20,Florencia,Cargador USB-C,Accesorios,27.96,3
+2024-04-26,Jorge,Pad Mouse,Periféricos,10.43,3
+2024-01-06,Florencia,SSD 1TB,Almacenamiento,146.86,3
+2024-01-30,Agustín,Cable HDMI,Accesorios,13.82,2
+2024-02-05,Marcos,Pad Mouse,Periféricos,7.65,3
+2024-02-01,Carlos,Webcam,Periféricos,72.08,1
+2024-05-04,Nicolás,"Notebook 15""",Computadoras,1153.41,2
+2024-05-16,Marcos,SSD 1TB,Almacenamiento,119.63,2
+2024-02-21,Nicolás,Auriculares,Audio,31.19,4
+2024-03-30,Hernán,Disco 2TB,Almacenamiento,95.28,6
+2024-03-04,Sofía,Auriculares,Audio,57.87,2
+2024-01-16,Rocío,SSD 1TB,Almacenamiento,126.82,2
+2024-04-01,Rocío,"Monitor 27""",Pantallas,267.1,3
+2024-02-19,Agustín,Mouse,Periféricos,25.64,4
+2024-03-22,Florencia,Disco 2TB,Almacenamiento,96.92,3
+2024-06-15,Jorge,Cargador USB-C,Accesorios,33.18,4
+2024-06-28,Florencia,Webcam,Periféricos,71.13,2
+2024-03-30,Rocío,"Notebook 15""",Computadoras,1034.16,3
+2024-04-21,Agustín,Hub USB-C,Accesorios,31.47,1
+2024-04-27,Agustín,Teclado,Periféricos,51.3,2
+2024-03-13,Marta,Mouse,Periféricos,22.87,1
+2024-02-12,Luis,Webcam,Periféricos,65.89,3
+2024-02-13,Sofía,Parlante BT,Audio,60.01,3
+2024-03-26,Jorge,Teclado,Periféricos,45.66,2
